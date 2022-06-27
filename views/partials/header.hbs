@@ -40,6 +40,8 @@
   <link rel="stylesheet" href="../../public/css/anim.css">
   <link rel="stylesheet" href="../../public/css/contact.css">
   <link rel="stylesheet" href="../../public/css/custom.css">
+  <link rel="stylesheet" href="../../public/css/productlist.css">
+  <link rel="stylesheet" href="../../public/css/">
 
 
 
@@ -65,14 +67,14 @@
                   <li>{{categoryName}}
                     <ul class="sub_list1">
                       {{#subCategories}}
-                      <li><a href="">{{subCategoryName}} </a>
+                      <li><a href="/{{categoryName}}_{{subCategoryName}}">{{subCategoryName}} </a>
 
-                        <ul class="sub_list2">
+                        {{!-- <ul class="sub_list2">
                           {{#products}}
                           <li><a href="/{{categoryName}}_{{subCategoryName}}_{{productName}}">{{productName}}</a></li>
 
                           {{/products}}
-                        </ul>
+                        </ul> --}}
                       </li>
                       {{/subCategories}}
                     </ul>

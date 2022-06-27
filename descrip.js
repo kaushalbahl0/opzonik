@@ -3,6 +3,8 @@ OpzonikSchema=[{
     "subCategories":[
     {
         "subCategoryName":"SINGLEMODE SIMPLEX",
+        "categoryName":"Fiber Optic Patch Cable",
+        
         "products":[
             {"productName":"FC TO FC",
             "categoryName":"Fiber Optic Patch Cable",
@@ -98,6 +100,7 @@ OpzonikSchema=[{
     ]
     },{
         "subCategoryName":"SINGLEMODE DUPLEX",
+        "categoryName":"Fiber Optic Patch Cable",
         "products":[
             {"productName":"FCAPC TO FCAPC"
             ,
@@ -126,6 +129,7 @@ OpzonikSchema=[{
     }
     ,{
         "subCategoryName":"MULTIMODE OM1",
+        "categoryName":"Fiber Optic Patch Cable",
         "products":[
             {"productName":"LC TO LC "
             ,
@@ -157,16 +161,40 @@ OpzonikSchema=[{
     ]
     },{
         "subCategoryName":"MULTIMODE OM2",
+        "categoryName":"Fiber Optic Patch Cable",
         "products":[
-            {"productName":"LC TO LC"
+            {"productName":"LC TO LC "
             ,
             "categoryName":"Fiber Optic Patch Cable",
             "subCategoryName":"MULTIMODE OM2",
         },
+        {
+            "productName":"LC TO SC"
+            ,
+            "categoryName":"Fiber Optic Patch Cable",
+            "subCategoryName":"MULTIMODE OM2",
+        }, {
+            "productName":"LC TO ST"
+            ,
+            "categoryName":"Fiber Optic Patch Cable",
+            "subCategoryName":"MULTIMODE OM2",
+        }, {
+            "productName":"SC TO SC"
+            ,
+            "categoryName":"Fiber Optic Patch Cable",
+            "subCategoryName":"MULTIMODE OM2",
+        }
+        , {
+            "productName":"ST TO ST"
+            ,
+            "categoryName":"Fiber Optic Patch Cable",
+            "subCategoryName":"MULTIMODE OM2",
+        }
        
     ]
     },{
         "subCategoryName":"MULTIMODE OM4",
+        "categoryName":"Fiber Optic Patch Cable",
         "products":[
             {"productName":"LC TO LC"
             ,
@@ -189,110 +217,59 @@ OpzonikSchema=[{
 ]
 },
 {
-    "categoryName":"Multifiber Pigtails",
+    "categoryName":"Fiber Optic Patch Cable Armoured",
     "subCategories":[
     {
-        "subCategoryName":"SINGLEMODE Multifiber Pigtail",
+        "subCategoryName":"ARMOURED CABLE",
+        "categoryName":"Fiber Optic Patch Cable Armoured",
         "products":[
-            {"productName":"LC 12 CORE",
-            "categoryName":"Multifiber Pigtails",
-            "subCategoryName":"SINGLEMODE Multifiber Pigtail",
+            {"productName":"SCAPC TO LC",
+            "categoryName":"Fiber Optic Patch Cable Armoured",
+            "subCategoryName":"ARMOURED CABLE",
+
         },
-        {"productName":"SC 12 CORE",
-            "categoryName":"Multifiber Pigtails",
-            "subCategoryName":"SINGLEMODE Multifiber Pigtail",
-        },
-    ]
-    },{
-        "subCategoryName":"MULTIMODE Multifiber Pigtail OM1",
-        "products":[
-            {"productName":"SC"
-            ,
-            "categoryName":"Multifiber Pigtails",
-            "subCategoryName":"MULTIMODE Multifiber Pigtail OM1",
-        }
-        
+        {"productName":"SCAPC TO SCAPC",
+        "categoryName":"Fiber Optic Patch Cable Armoured",
+        "subCategoryName":"ARMOURED CABLE",
+
+       },
+      
     ]
     }
-    ,{
-        "subCategoryName":"MULTIMODE Multifiber Pigtail OM2",
+]
+},
+{
+    "categoryName":"Fiber Optic Adapter Cable",
+    "subCategories":[
+    {
+        "subCategoryName":"SINGLEMODE DUPLEX",
+        "categoryName":"Fiber Optic Adapter Cable",
         "products":[
-            {"productName":"OM1"
-            ,
-            "categoryName":"Multifiber Pigtails",
-            "subCategoryName":"MULTIMODE Multifiber Pigtail OM2",
+            {"productName":"LC TO ST",
+            "subCategoryName":"SINGLEMODE DUPLEX",
+            "categoryName":"Fiber Optic Adapter Cable",
         },
-        
-    ]
-    },{
-        "subCategoryName":"MULTIMODE Multifiber Pigtail OM3",
-        "products":[
-            {"productName":"SC"
-            ,
-            "categoryName":"Multifiber Pigtails",
-            "subCategoryName":"MULTIMODE Multifiber Pigtail OM3",
-        }
+        {"productName":"LC TO SC",
+        "subCategoryName":"SINGLEMODE DUPLEX",
+        "categoryName":"Fiber Optic Adapter Cable",
+    },
+      
     ]
     },
-    // {
-    //     "subCategoryName":"MULTIMODE Multifiber Pigtail OM4",
+    // { "categoryName":"Fiber Optic Adapter Cable",
+    //     "subCategoryName":"MULTIMODE DUPLEX",
     //     "products":[
-    //         {"productName":"OM1"
-    //         ,
-    //         "categoryName":"Multifiber Pigtails",
-    //         "subCategoryName":"MULTIMODE Multifiber Pigtail OM4",
+    //         {"productName":"LC TO ST",
+    //         "subCategoryName":"SINGLEMODE DUPLEX",
+    //         "categoryName":"Fiber Optic Adapter Cable",
     //     },
-    //     {
-    //         "productName":"OM2"
-    //         ,
-    //         "categoryName":"Multifiber Pigtails",
-    //         "subCategoryName":"MULTIMODE Multifiber Pigtail OM4",
-    //     }
+    //     {"productName":"LC TO SC",
+    //     "subCategoryName":"SINGLEMODE DUPLEX",
+    //     "categoryName":"Fiber Optic Adapter Cable",
+    // },
+      
     // ]
     // }
-]
-},{
-    "categoryName":"Fiber Optic Rackmount Enclosure",
-    "subCategories":[
-    {
-        "subCategoryName":"SINGLEMODE",
-        "products":[
-        
-        {
-            "productName":"24 LC Port"
-            ,
-            "categoryName":"Fiber Optic Rackmount Enclosure",
-            "subCategoryName":"SINGLEMODE",
-        },
-        {
-            "productName":"24 SC Port"
-            ,
-            "categoryName":"Fiber Optic Rackmount Enclosure",
-            "subCategoryName":"SINGLEMODE",
-        }
-    ]
-    },{
-        "subCategoryName":"MULTIMODE",
-        "products":[
-            {"productName":"12 Port "
-            ,
-            "categoryName":"Fiber Optic Rackmount Enclosure",
-            "subCategoryName":"MULTIMODE",
-        },
-        {
-            "productName":"24 Port"
-            ,
-            "categoryName":"Fiber Optic Rackmount Enclosure",
-            "subCategoryName":"MULTIMODE",
-        },
-        {
-            "productName":"48 Port"
-            ,
-            "categoryName":"Fiber Optic Rackmount Enclosure",
-            "subCategoryName":"MULTIMODE",
-        }
-    ]
-    }
 ]
 },
 {
@@ -300,6 +277,7 @@ OpzonikSchema=[{
     "subCategories":[
     {
         "subCategoryName":"SINGLEMODE SIMPLEX",
+        "categoryName":"Fiber Optic Adapter",
         "products":[
             {"productName":"FC TO FC",
             "categoryName":"Fiber Optic Adapter",
@@ -322,46 +300,46 @@ OpzonikSchema=[{
         }
     ]
     },
-    {
-        "subCategoryName":"SINGLEMODE DUPLEX",
-        "products":[
-            {"productName":"SC TO SC"
-            ,
-            "categoryName":"Fiber Optic Adapter",
-            "subCategoryName":"SINGLEMODE DUPLEX",
-        },
-        {"productName":"LC TO LC"
-        ,
-            "categoryName":"Fiber Optic Adapter",
-            "subCategoryName":"SINGLEMODE DUPLEX",
-        }
-    ]
-    },
-    {
-        "subCategoryName":"MULTIMODE SIMPLEX",
-        "products":[
-            {"productName":"SC TO SC"
-            ,
-            "categoryName":"Fiber Optic Adapter",
-            "subCategoryName":"MULTIMODE SIMPLEX",
-        },
+    // {
+    //     "subCategoryName":"SINGLEMODE DUPLEX",
+    //     "products":[
+    //         {"productName":"SC TO SC"
+    //         ,
+    //         "categoryName":"Fiber Optic Adapter",
+    //         "subCategoryName":"SINGLEMODE DUPLEX",
+    //     },
+    //     {"productName":"LC TO LC"
+    //     ,
+    //         "categoryName":"Fiber Optic Adapter",
+    //         "subCategoryName":"SINGLEMODE DUPLEX",
+    //     }
+    // ]
+    // },
+    // {
+    //     "subCategoryName":"MULTIMODE SIMPLEX",
+    //     "products":[
+    //         {"productName":"SC TO SC"
+    //         ,
+    //         "categoryName":"Fiber Optic Adapter",
+    //         "subCategoryName":"MULTIMODE SIMPLEX",
+    //     },
         
-    ]
-    },
-    {
-        "subCategoryName":"MULTIMODE DUPLEX",
-        "products":[
-            {"productName":"SC TO SC"
-            ,
-            "categoryName":"Fiber Optic Adapter",
-            "subCategoryName":"MULTIMODE DUPLEX",
-        },
-        {"productName":"LC TO LC",
-        "categoryName":"Fiber Optic Adapter",
-        "subCategoryName":"MULTIMODE DUPLEX",
-        },
-    ]
-    }
+    // ]
+    // },
+    // {
+    //     "subCategoryName":"MULTIMODE DUPLEX",
+    //     "products":[
+    //         {"productName":"SC TO SC"
+    //         ,
+    //         "categoryName":"Fiber Optic Adapter",
+    //         "subCategoryName":"MULTIMODE DUPLEX",
+    //     },
+    //     {"productName":"LC TO LC",
+    //     "categoryName":"Fiber Optic Adapter",
+    //     "subCategoryName":"MULTIMODE DUPLEX",
+    //     },
+    // ]
+    // }
 ]
 },
 {
@@ -369,19 +347,20 @@ OpzonikSchema=[{
     "subCategories":[
     {
         "subCategoryName":"SINGLEMODE SIMPLEX",
+        "categoryName":"Fiber Optic Hybrid Adapter",
         "products":[
-            {"productName":"ST-LC",
-            "subCategoryName":"SINGLEMODE SIMPLEX",
-            "categoryName":"Fiber Optic Hybrid Adapter",
-        },
+        //     {"productName":"ST-LC",
+        //     "subCategoryName":"SINGLEMODE SIMPLEX",
+        //     "categoryName":"Fiber Optic Hybrid Adapter",
+        // },
         {"productName":"FC-LC",
         "subCategoryName":"SINGLEMODE SIMPLEX",
         "categoryName":"Fiber Optic Hybrid Adapter",
         },
-        {"productName":"FC-ST",
-        "subCategoryName":"SINGLEMODE SIMPLEX",
-        "categoryName":"Fiber Optic Hybrid Adapter",
-        },
+        // {"productName":"FC-ST",
+        // "subCategoryName":"SINGLEMODE SIMPLEX",
+        // "categoryName":"Fiber Optic Hybrid Adapter",
+        // },
             {"productName":"SC-LC",
             "subCategoryName":"SINGLEMODE SIMPLEX",
             "categoryName":"Fiber Optic Hybrid Adapter",
@@ -390,10 +369,10 @@ OpzonikSchema=[{
         "subCategoryName":"SINGLEMODE SIMPLEX",
         "categoryName":"Fiber Optic Hybrid Adapter",
         },
-        {"productName":"SC-ST SIMPLEX&DUPLEX",
-        "subCategoryName":"SINGLEMODE SIMPLEX",
-        "categoryName":"Fiber Optic Hybrid Adapter",
-        },
+        // {"productName":"SC-ST SIMPLEX&DUPLEX",
+        // "subCategoryName":"SINGLEMODE SIMPLEX",
+        // "categoryName":"Fiber Optic Hybrid Adapter",
+        // },
        
     ]
     }
@@ -404,6 +383,7 @@ OpzonikSchema=[{
     "subCategories":[
         {
             "subCategoryName":"SINGLEMODE&MULTIMODE",
+            "categoryName":"Fiber Optic Attenuators ",
             "products":[
                 {"productName":"SC" ,
                 "categoryName":"Fiber Optic Attenuators ",
@@ -413,14 +393,14 @@ OpzonikSchema=[{
                 "categoryName":"Fiber Optic Attenuators ",
                 "subCategoryName":"SINGLEMODE&MULTIMODE",
                 },
-                {"productName":"ST" ,
-                "categoryName":"Fiber Optic Attenuators ",
-                "subCategoryName":"SINGLEMODE&MULTIMODE",
-                    },
-                {"productName":"E2000" ,
-                "categoryName":"Fiber Optic Attenuators ",
-                "subCategoryName":"SINGLEMODE&MULTIMODE",
-                },
+                // {"productName":"ST" ,
+                // "categoryName":"Fiber Optic Attenuators ",
+                // "subCategoryName":"SINGLEMODE&MULTIMODE",
+                //     },
+                // {"productName":"E2000" ,
+                // "categoryName":"Fiber Optic Attenuators ",
+                // "subCategoryName":"SINGLEMODE&MULTIMODE",
+                // },
            
         ]
         }
@@ -429,19 +409,76 @@ OpzonikSchema=[{
 ]
 },
 {
+    "categoryName":"Multifiber Pigtails",
+    "subCategories":[
+    {
+        "subCategoryName":"SINGLEMODE Multifiber Pigtail",
+        "categoryName":"Multifiber Pigtails",
+        "products":[
+            {"productName":"LC 12 CORE",
+            "categoryName":"Multifiber Pigtails",
+            "subCategoryName":"SINGLEMODE Multifiber Pigtail",
+        },
+        {"productName":"SC 12 CORE",
+            "categoryName":"Multifiber Pigtails",
+            "subCategoryName":"SINGLEMODE Multifiber Pigtail",
+        },
+    ]
+    },
+    
+    // ,{
+    //     "subCategoryName":"MULTIMODE Multifiber Pigtail OM2",
+    //     "products":[
+    //         {"productName":"ST"
+    //         ,
+    //         "categoryName":"Multifiber Pigtails",
+    //         "subCategoryName":"MULTIMODE Multifiber Pigtail OM2",
+    //     },
+        
+    // ]
+    // },{
+    //     "subCategoryName":"MULTIMODE Multifiber Pigtail OM3",
+    //     "products":[
+    //         {"productName":"SC"
+    //         ,
+    //         "categoryName":"Multifiber Pigtails",
+    //         "subCategoryName":"MULTIMODE Multifiber Pigtail OM3",
+    //     }
+    // ]
+    // },
+    // {
+    //     "subCategoryName":"MULTIMODE Multifiber Pigtail OM4",
+    //     "products":[
+    //         {"productName":"OM1"
+    //         ,
+    //         "categoryName":"Multifiber Pigtails",
+    //         "subCategoryName":"MULTIMODE Multifiber Pigtail OM4",
+    //     },
+    //     {
+    //         "productName":"OM2"
+    //         ,
+    //         "categoryName":"Multifiber Pigtails",
+    //         "subCategoryName":"MULTIMODE Multifiber Pigtail OM4",
+    //     }
+    // ]
+    // }
+]
+},
+{
     "categoryName":"Breakout Cable",
     "subCategories":[
     {
         "subCategoryName":"SINGLEMODE",
+        "categoryName":"Breakout Cable",
         "products":[
             {"productName":"12 FIBER" ,
             "categoryName":"Breakout Cable",
             "subCategoryName":"SINGLEMODE",
             },
-            {"productName":"48 FIBER" ,
-            "categoryName":"Breakout Cable",
-            "subCategoryName":"SINGLEMODE",
-            },
+            // {"productName":"48 FIBER" ,
+            // "categoryName":"Breakout Cable",
+            // "subCategoryName":"SINGLEMODE",
+            // },
             {"productName":"BREAKOUT CABLE" ,
             "categoryName":"Breakout Cable",
             "subCategoryName":"SINGLEMODE",
@@ -464,6 +501,7 @@ OpzonikSchema=[{
     "subCategories":[
     {
         "subCategoryName":"SINGLEMODE",
+        "categoryName":"Distribution Cable",
         "products":[
             {"productName":"DISTRIBUTION CABLE",
             "categoryName":"Distribution Cable",
@@ -475,56 +513,49 @@ OpzonikSchema=[{
 ]
 },
 {
-    "categoryName":"Fiber Optic Adapter Cable",
+    "categoryName":"Fiber Optic Rackmount Enclosure",
     "subCategories":[
     {
-        "subCategoryName":"SINGLEMODE DUPLEX",
+        "subCategoryName":"SINGLEMODE",
+        "categoryName":"Fiber Optic Rackmount Enclosure",
         "products":[
-            {"productName":"LC TO ST",
-            "subCategoryName":"SINGLEMODE DUPLEX",
-            "categoryName":"Fiber Optic Adapter Cable",
+        
+        {
+            "productName":"24 LC Port"
+            ,
+            "categoryName":"Fiber Optic Rackmount Enclosure",
+            "subCategoryName":"SINGLEMODE",
         },
-        {"productName":"LC TO SC",
-        "subCategoryName":"SINGLEMODE DUPLEX",
-        "categoryName":"Fiber Optic Adapter Cable",
+        {
+            "productName":"24 SC Port"
+            ,
+            "categoryName":"Fiber Optic Rackmount Enclosure",
+            "subCategoryName":"SINGLEMODE",
+        }
+    ]
     },
-      
-    ]
-    },{
-        "subCategoryName":"MULTIMODE DUPLEX",
-        "products":[
-            {"productName":"LC TO ST",
-            "subCategoryName":"SINGLEMODE DUPLEX",
-            "categoryName":"Fiber Optic Adapter Cable",
-        },
-        {"productName":"LC TO SC",
-        "subCategoryName":"SINGLEMODE DUPLEX",
-        "categoryName":"Fiber Optic Adapter Cable",
-    },
-      
-    ]
-    }
-]
-},
-{
-    "categoryName":"Fiber Optic Patch Cable Armoured",
-    "subCategories":[
-    {
-        "subCategoryName":"ARMOURED CABLE",
-        "products":[
-            {"productName":"SCAPC TO LC",
-            "categoryName":"Fiber Optic Patch Cable Armoured",
-            "subCategoryName":"ARMOURED CABLE",
-
-        },
-        {"productName":"SCAPC TO SCAPC",
-        "categoryName":"Fiber Optic Patch Cable Armoured",
-        "subCategoryName":"ARMOURED CABLE",
-
-       },
-      
-    ]
-    }
+    // {
+    //     "subCategoryName":"MULTIMODE",
+    //     "products":[
+    //         {"productName":"12 Port "
+    //         ,
+    //         "categoryName":"Fiber Optic Rackmount Enclosure",
+    //         "subCategoryName":"MULTIMODE",
+    //     },
+    //     {
+    //         "productName":"24 Port"
+    //         ,
+    //         "categoryName":"Fiber Optic Rackmount Enclosure",
+    //         "subCategoryName":"MULTIMODE",
+    //     },
+    //     {
+    //         "productName":"48 Port"
+    //         ,
+    //         "categoryName":"Fiber Optic Rackmount Enclosure",
+    //         "subCategoryName":"MULTIMODE",
+    //     }
+    // ]
+    // }
 ]
 },
 {
@@ -532,6 +563,7 @@ OpzonikSchema=[{
     "subCategories":[
     {
         "subCategoryName":"SINGLEMODE",
+        "categoryName":"Loopback Adapter Test Cable",
         "products":[
             {"productName":"SC",
             "categoryName":"Loopback Adapter Test Cable",
@@ -545,18 +577,18 @@ OpzonikSchema=[{
             "categoryName":"Loopback Adapter Test Cable",
             "subCategoryName":"SINGLEMODE",
             },
-            {"productName":"MTRJ",
-            "categoryName":"Loopback Adapter Test Cable",
-            "subCategoryName":"SINGLEMODE",
-            },
-            {"productName":"MU",
-            "categoryName":"Loopback Adapter Test Cable",
-            "subCategoryName":"SINGLEMODE",
-            },
-            {"productName":"4 FIBER MPO",
-            "categoryName":"Loopback Adapter Test Cable",
-            "subCategoryName":"SINGLEMODE",
-            },
+            // {"productName":"MTRJ",
+            // "categoryName":"Loopback Adapter Test Cable",
+            // "subCategoryName":"SINGLEMODE",
+            // },
+            // {"productName":"MU",
+            // "categoryName":"Loopback Adapter Test Cable",
+            // "subCategoryName":"SINGLEMODE",
+            // },
+            // {"productName":"4 FIBER MPO",
+            // "categoryName":"Loopback Adapter Test Cable",
+            // "subCategoryName":"SINGLEMODE",
+            // },
       
     ]
     }

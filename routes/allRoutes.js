@@ -2,7 +2,8 @@ const router=require("express").Router();
 const data=require("../descrip")
 const productDesc=require("../productButton");
 const productImage=require("../productButton");
-const productDetail=require("../productInfo")
+const productDetail=require("../productInfo");
+const productlList=require("../productList")
 
 
 router.get("/home",(req,res)=>{
@@ -31,6 +32,15 @@ router.get("/custom",(req,res)=>{
     res.render("custum",{"data":listData,"button":listButton,"productimage":productImg})
 })
 router.get("/:key",(req,res)=>{
+    const listData=data.opzonik;
+    const listButton=productDesc.product
+    const productImg=productImage.productimg
+    const category=req.params.key
+    const productL=productlList[category].product
+    console.log(productL)
+    res.render("product",{"data":listData,"button":listButton,"productimage":productImg,"productList":productL})
+})
+router.get("/product/:key",(req,res)=>{
     // console.log(req.params.key);
     const listData=data.opzonik
     const listButton=productDesc.product

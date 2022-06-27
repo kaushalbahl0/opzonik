@@ -8,9 +8,18 @@
     width: 100%;
 
 }
+.box1{
+    margin-left: 20px;
+}
+.box1 h4{
+    margin-left: -20px;
+}
 .box1 ul{
-    list-style: none;
+    list-style:number;
     padding-left: 0px;
+}
+.box1 p{
+    margin-left: -20px;
 }
 .box1 ul li{
     margin-top: 10px;

@@ -17,7 +17,7 @@ p,li,li a{
     font-size: 16px;
     font-weight: 500 !important;
     /* font-family: 'SF Pro Display', sans-serif; */
-    color: black !important;
+   
 }
 
 
@@ -432,11 +432,12 @@ section{
       position: relative;
       line-height: 2;
       background-color: #c2c2c2;
+      border-radius: 20px;
      
      
   }
   .sub_list li{
-    padding: 0px !important ;
+   
     font-size: 12px;
   }
   /*  */
@@ -457,6 +458,7 @@ section{
       display: none;
       list-style: none;
       background-color: rgb(172, 164, 164) !important;
+      transition:ease-in 0.7s;
       position: relative;
   }
   .sub_list>li:hover .sub_list1{
@@ -484,6 +486,7 @@ section{
       position: relative;
       list-style:none;
       text-decoration: none;
+      transition: 0.7s;
       width: 150px;
       background-color:rgb(172, 164, 164)  !important;
   } 
@@ -566,7 +569,7 @@ section{
     text-align: center;
     font-size: 10px;
     background: #fff;
-    height: 55vh;
+    height: 60vh;
  
 
     /* Center slide text vertically */
@@ -590,26 +593,14 @@ section{
     width: 100%;
 }
 .swiper-button-next::after{
-font-size: 15px;
-font-weight: bold;
+font-size: 40px;
+font-weight: 500;
 color: red;
 }
 .swiper-button-prev::after{
-font-size:15px;
-font-weight: 20px;
+font-size:40px;
+font-weight: 500;
 color: red;
-}
-.swiper-button-next{
-    position: absolute;
-    /* right: 38px; */
-    top: 16px;
-   
-}
-.swiper-button-prev{
-    position: absolute;
-    /* right: 38px; */
-    top: 16px;
-    left: 94%;
 }
 .main {
     max-width:1400px !important;
@@ -729,10 +720,16 @@ color: red;
     position: relative;
     margin-bottom: 6px;
     transition: all 0.4s ease-in-out;
+    border: 1px solid rgb(213, 208, 208);
+    border-radius: 20px;
+    padding: 3px;
+    margin-top: 4px;
 
 }
 .navbar-nav ul ul li:hover{
     padding-left: 10px !important;
+    color: red;
+    border: 1px solid red;
 }
 
 /* .navbar-nav ul ul ul{
@@ -753,10 +750,15 @@ color: red;
     position: absolute;
     left: 33%;
     top: 0;
+    border-radius: 10px;
 }
 .sub_list2:hover,
 .sub_list1:hover{
     padding-left: 10px !important;
+    color: red;
+}
+.sub_list1 li:hover a{
+    color: red !important;
 }
 
 /* modal section start */
