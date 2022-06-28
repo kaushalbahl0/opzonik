@@ -1,41 +1,22 @@
 <section id="footer">
   <div class="container">
     <div class="row pt-5 ">
-      <div class="col-lg-4">
+      <div class="col-lg-3 mb-2">
         <img src="../../public/image/op_logo.png" alt="">
       </div>
-      <div class="col-lg-2">
-        <div class="footer_product">
-          <h4>PRODUCTS</h4>
-          <ul>
-            <li><a href="">Fiber Optic Patch Cable</a></li>
-            <li><a href="">Multifiber Pigtails</a></li>
-            <li><a href="">Fiber Optic Adapter</a></li>
-            <li><a href="">Fiber Optic Hybrid Adapter</a></li>
-            <li><a href="">Fiber Optic Attenuators</a></li>
-            <li><a href="">Breakout Cable</a></li>
-            <li><a href="">Distribution Cable</a></li>
-            <li><a href="">Fiber Optic Rackmount Enclosure </a></li>
-            <li><a href="">Fiber Optic Adapter Cable</a></li>
-            <li><a href="">Fiber Optic Patch Cable Armoured</a></li>
-            <li><a href="">Loopback Adapter Test Cable</a></li>
-
-          </ul>
-        </div>
-      </div>
-      <div class="col-lg-2">
+      <div class="col-lg-3 mb-2">
         <div class="footer_product">
           <h4>LINKS</h4>
           <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">About</a></li>
+            <li><a href=".home">Home</a></li>
+            <li><a href="./">About</a></li>
             <li><a href="">Products</a></li>
-            <li><a href="">contact Us</a></li>
+            <li><a href="">Contact Us</a></li>
 
           </ul>
         </div>
       </div>
-      <div class="col-lg-2">
+      <div class="col-lg-3 mb-2">
         <div class="footer_product">
           <h4>CONNECT</h4>
           <ul>
@@ -46,7 +27,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-lg-2">
+      <div class="col-lg-3 mb-2">
         <div class="footer_product">
           <h4>CONTACT</h4>
           <ul>
@@ -153,6 +134,23 @@
           nextEl: ".swiper-button-next",
           prevEl: ".swiper-button-prev",
         },
+         breakpoints: {
+    // when window width is >= 320px
+    320: {
+      slidesPerView: 2,
+      spaceBetween: 20
+    },
+    // when window width is >= 480px
+    480: {
+      slidesPerView: 3,
+      spaceBetween: 30
+    },
+    // when window width is >= 640px
+    640: {
+      slidesPerView: 4,
+      spaceBetween: 40
+    }
+  }
   });
 </script>
 <script>

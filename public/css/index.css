@@ -21,7 +21,9 @@ p,li,li a{
 }
 
 
-
+body{
+    overflow: hidden;
+}
 html{
     overflow-x: hidden !important;
 }
@@ -110,9 +112,10 @@ section{
 #myVideo{
     width: 100%;
 }
-.video_content{
+.slider_banner{
     position: relative;
 }
+
 .video_para{
     position: absolute;
 }
@@ -548,11 +551,11 @@ section{
   #footer ul li a{
       color: #A2A2A2;
       text-decoration: none;
-      font-size: 11px;
+      font-size: 20px;
   }
   #footer h4{
       color: #FFFFFF;
-      font-size: 11px;
+      font-size: 20px;
       font-weight: 500;
   }
 
@@ -788,4 +791,101 @@ background-color: grey;
 }
 #s_sub{
     color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive  */
+
+@media screen and (max-width: 767px) {
+
+    h1 {
+        font-size: 13px;}
+    h2 {font-size: 20px;}
+    .image_section .box1{
+        display: none;
+    }
+    section {
+        margin-bottom: 30px !important;
+        margin-top: 30px !important;
+    }
+    .h4 {
+        font-size: 13px !important;
+    }
+    p{
+        font-size: 13px;
+    }
+   .swiper-slide{
+    height: 50vh;
+   }
+   .slider_section2 ,.slider_section1{
+    margin: 0x !important;
+   }
+   .content h4{
+    font-size: 15px;
+   }
+   .content p{
+    font-size: 10px;
+   }
+   .swiper-button-next::after {
+    font-size: 20px;
+    font-weight: 700;
+   
+    }
+    .swiper-button-prev::after {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .why_box{
+        display: none;
+    }
+    .quality_box{
+        display: none;
+    }
+    .sub_now{
+        position: initial;
+    }
+    .subcribe_now{
+        text-align: center;
+    }
+    .content1{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .rectangle img{
+        width: 100%;
+    }
+    .main_rectangle {
+        border: 1px solid rgb(249, 45, 38);
+        height: 100%;
+        width: 100% !important;
+    }
+    .rectangle {
+        box-shadow: none !important;
+    }
+    .sub_list1{
+        position: initial !important;
+        left: 3% !important;
+        margin-left: 17px !important;
+    }
+    .para {
+        padding: 0px; 
+         padding-top: 0px; 
+         padding-bottom: 0px;
+        color: white !important;
+    }
+    .category li{
+        padding-left: 0px !important;
+    }
+    
 }
