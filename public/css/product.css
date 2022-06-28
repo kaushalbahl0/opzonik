@@ -81,3 +81,11 @@
 #modal_form p{
     color:red !important;
 }
+
+@media (max-width: 516px){
+    .content1{
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 30px;
+    }
+}

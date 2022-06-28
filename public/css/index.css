@@ -859,8 +859,8 @@ background-color: grey;
         text-align: center;
     }
     .content1{
-        padding-left: 0px;
-        padding-right: 0px;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
     }
     .rectangle img{
         width: 100%;
@@ -887,5 +887,16 @@ background-color: grey;
     .category li{
         padding-left: 0px !important;
     }
+    .content_img{
+        margin-top: 10px;
+    }
     
+}
+
+
+@media (max-width: 516px){
+    #content2{
+        padding: 0 !important;
+        padding-top: 30px !important;
+    }
 }
