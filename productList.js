@@ -191,31 +191,31 @@ productList = {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/LC TO LC.jpg",
         "imageName":"LC TO LC",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM2_LC TO LC",
-        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC"
+        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC;"
     },
     {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/LC TO SC.jpg",
         "imageName":"LC TO SC",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM2_LC TO SC",
-        "content":"OpZonik LC TO SC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO SC"
+        "content":"OpZonik LC TO SC Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO SC"
     },
     {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/LC TO ST.jpg",
         "imageName":"LC TO ST",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM2_LC TO ST",
-        "content":"OpZonik LC TO ST Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO ST"
+        "content":"OpZonik LC TO ST Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO ST"
     },
     {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/SC TO SC.jpg",
         "imageName":"SC TO SC",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM2_SC TO SC",
-        "content":"OpZonik SC TO SC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable SC TO SC"
+        "content":"OpZonik SC TO SC Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable SC TO SC"
     },
     {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/ST TO ST.jpg",
         "imageName":"ST TO ST",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM2_ST TO ST",
-        "content":"OpZonik ST TO ST Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable ST TO ST"
+        "content":"OpZonik ST TO ST Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable ST TO ST"
     },
     ]
   },

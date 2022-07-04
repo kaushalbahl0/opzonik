@@ -10,9 +10,10 @@
 .content_img p{
     text-decoration: none !important;
     color: #666 !important;
-    font-size: 14px;
+    font-size: 15px;
     font-family: 'Dosis',sans-serif;
     font-weight: normal;
+    text-transform: lowercase;
 }
 .content_img h4{
     color: rgb(68, 65, 65);

@@ -1443,8 +1443,8 @@ productDesc = {
   // OM2 PATCH CABLE
 
   "Fiber Optic Patch Cable_MULTIMODE OM2_LC TO LC": {
-    "title": "OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC",
-    "info": `LC to LC Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
+    "title": "OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC",
+    "info": `LC to LC Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-LC.png",
     "description": `<div class="descrip">
@@ -1452,7 +1452,7 @@ productDesc = {
   <div class="box1">
   
   <ul>
-    <li>Multimode OM1 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
+    <li>Multimode OM2 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
     <li>Connector: LC TO LC</li>
     <li>Ferrule Material: Zirconia Ceramic</li>
   
@@ -1503,8 +1503,8 @@ productDesc = {
 
 </div>`},
   "Fiber Optic Patch Cable_MULTIMODE OM2_LC TO SC": {
-    "title": "OpZonik LC TO SC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO SC",
-    "info": `LC to SC Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
+    "title": "OpZonik LC TO SC Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO SC",
+    "info": `LC to SC Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-SC.png",
     "description": `<div class="descrip">
@@ -1512,7 +1512,7 @@ productDesc = {
   <div class="box1">
   
   <ul>
-  <li>Multimode OM1 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
+  <li>Multimode OM2 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
   <li>Connector: LC TO SC</li>
   <li>Ferrule Material: Zirconia Ceramic</li>
   </ul>
@@ -1562,8 +1562,8 @@ productDesc = {
 
 </div>`
   }, "Fiber Optic Patch Cable_MULTIMODE OM2_LC TO ST": {
-    "title": "OpZonik LC TO ST Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO ST",
-    "info": `LC to ST Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
+    "title": "OpZonik LC TO ST Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO ST",
+    "info": `LC to ST Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-ST.png",
     "description": `<div class="descrip">
@@ -1571,7 +1571,7 @@ productDesc = {
   <div class="box1">
   
   <ul>
-    <li>Multimode OM1 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
+    <li>Multimode OM2 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
     
     <li>Connector: LC TO ST</li>
     <li>Ferrule Material: Zirconia Ceramic</li>
@@ -1622,8 +1622,8 @@ productDesc = {
 
 </div>`
   }, "Fiber Optic Patch Cable_MULTIMODE OM2_SC TO SC": {
-    "title": "OpZonik SC TO SC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable SC TO SC",
-    "info": `SC to SC Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
+    "title": "OpZonik SC TO SC Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable SC TO SC",
+    "info": `SC to SC Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/SC-TO-SC.png",
     "description": `<div class="descrip">
@@ -1631,7 +1631,7 @@ productDesc = {
   <div class="box1">
   
   <ul>
-    <li>Multimode OM1 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
+    <li>Multimode OM2 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
     <li>Connector: SC TO SC</li>
     <li>Ferrule Material: Zirconia Ceramic</li>
   </ul>
@@ -1681,8 +1681,8 @@ productDesc = {
 
 </div>`
   }, "Fiber Optic Patch Cable_MULTIMODE OM2_ST TO ST": {
-    "title": "OpZonik ST TO ST Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable ST TO ST",
-    "info": `ST to ST Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
+    "title": "OpZonik ST TO ST Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable ST TO ST",
+    "info": `ST to ST Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/ST-TO-ST.png",
     "description": `<div class="descrip">
@@ -1690,7 +1690,7 @@ productDesc = {
   <div class="box1">
   
   <ul>
-    <li>Multimode OM1 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
+    <li>Multimode OM2 62.5/125um Duplex Fiber Optic Patch Cord Cable.</li>
    
     <li>Connector: ST TO ST</li>
     <li>Ferrule Material: Zirconia Ceramic</li>
@@ -1741,6 +1741,10 @@ productDesc = {
 
 </div>`
   },
+
+
+
+
   // pigtail 
   "Multifiber Pigtails_SINGLEMODE Multifiber Pigtail_SC 12 CORE": {
     "title": "OpZonik 1.5M 12 Strand Singlemode 9/125µm SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing",
