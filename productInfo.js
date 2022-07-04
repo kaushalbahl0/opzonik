@@ -1760,10 +1760,11 @@ productDesc = {
   <div class="box1">
   <h4> Parameters</h4>
   <ul>
-    <li> Fiber Type: Single-Mode, Connector (s): SC Connector, Cable Length: 1.5M, Minimum Bending Radius: 3.8cm.</li>
-    <li> Ferrule material: ceramic; Working Wavelength: 1310-1550nm</li>
-    <li> Insertion loss: ≤0.3.</li>
-    <li>Operating temperature: -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
+    <li> Fiber Type : Single-Mode, Connector (s): SC Connector, <br>
+     Cable Length : 1.5M, Minimum Bending Radius: 3.8cm.</li>
+    <li> Ferrule material : ceramic; Working Wavelength: 1310-1550nm</li>
+    <li> Insertion loss : ≤0.3.</li>
+    <li>Operating temperature : -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
   </ul>
 </div>
     <div class="box1">
@@ -1810,10 +1811,10 @@ productDesc = {
 <div class="box1">
 <h4> Parameters</h4>
 <ul>
-  <li> Fiber Type: Single-Mode, Connector (s): SC Connector, Cable Length: 1.5M, Minimum Bending Radius: 3.8cm.</li>
-  <li> Ferrule material: ceramic; Working Wavelength: 1310-1550nm</li>
-  <li> Insertion loss: ≤0.3.</li>
-  <li>Operating temperature: -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
+  <li> Fiber Type : Single-Mode, Connector (s): SC Connector, <br> Cable Length : 1.5M, Minimum Bending Radius: 3.8cm.</li>
+  <li> Ferrule material : ceramic; Working Wavelength: 1310-1550nm</li>
+  <li> Insertion loss : ≤0.3.</li>
+  <li>Operating temperature : -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
 </ul>
 </div>
   <div class="box1">
@@ -1860,10 +1861,10 @@ productDesc = {
 <div class="box1">
 <h4> Parameters</h4>
 <ul>
-  <li> Fiber Type: Single-Mode, Connector (s): SC Connector, Cable Length: 1.5M, Minimum Bending Radius: 3.8cm.</li>
-  <li> Ferrule material: ceramic; Working Wavelength: 850-1300nm</li>
-  <li> Insertion loss: ≤0.3.</li>
-  <li>Operating temperature: -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
+  <li> Fiber Type : Single-Mode, Connector (s): SC Connector, Cable Length : 1.5M, Minimum Bending Radius: 3.8cm.</li>
+  <li> Ferrule material : ceramic; Working Wavelength: 850-1300nm</li>
+  <li> Insertion loss : ≤0.3.</li>
+  <li>Operating temperature : -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
 
 </ul>
 </div>
@@ -1911,10 +1912,10 @@ productDesc = {
 <div class="box1">
 <h4> Parameters</h4>
 <ul>
-  <li> Fiber Type: Single-Mode, Connector (s): SC Connector, Cable Length: 1.5M, Minimum Bending Radius: 3.8cm.</li>
-  <li> Ferrule material: ceramic; Working Wavelength: 850-1300nm</li>
-  <li> Insertion loss: ≤0.3.</li>
-  <li>Operating temperature: -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
+  <li> Fiber Type : Single-Mode, Connector (s): SC Connector,<br> Cable Length : 1.5M, Minimum Bending Radius: 3.8cm.</li>
+  <li> Ferrule material : ceramic; Working Wavelength: 850-1300nm</li>
+  <li> Insertion loss : ≤0.3.</li>
+  <li>Operating temperature : -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
 
 </ul>
 </div>
@@ -1948,9 +1949,9 @@ productDesc = {
 </div>`
 
   },
-  "Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM3_SC": {
-    "title": `OpZonik 1.5M 12 Strand Multimode OM3 50/125µm SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing `,
-    "info": `1.5M SC Fiber Optic Pigtails are great for fusion splicing inside of a fiber optic enclosure. Each strand is terminated on one end and the other end is left blunt so that so it can be easily spliced to the trunk, backbone or outside plant cable and the other end is terminated with 12 SC Connectors which connect to the end equipment, like an adapter panel or optical transreceiver. It consists of a connector and a special length, connector could be SC, LC, FC, ST etc.
+  "Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM3_LC": {
+    "title": `OpZonik 1.5M 12 Strand Multimode OM3 50/125µm LC Fiber optic pigtails, 12 Color-Coded LC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing `,
+    "info": `1.5M LC Fiber Optic Pigtails are great for fusion splicing inside of a fiber optic enclosure. Each strand is terminated on one end and the other end is left blunt so that so it can be easily spliced to the trunk, backbone or outside plant cable and the other end is terminated with 12 SC Connectors which connect to the end equipment, like an adapter panel or optical transreceiver. It consists of a connector and a special length, connector could be SC, LC, FC, ST etc.
   For Any Customization of length and connector configuration contact seller
   
   `,
@@ -1964,10 +1965,10 @@ productDesc = {
 <div class="box1">
 <h4> Parameters</h4>
 <ul>
-  <li> Fiber Type: Single-Mode, Connector (s): SC Connector, Cable Length: 1.5M, Minimum Bending Radius: 3.8cm.</li>
-  <li> Ferrule material: ceramic; Working Wavelength: 850-1300nm</li>
-  <li> Insertion loss: ≤0.3.</li>
-  <li>Operating temperature: -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
+  <li> Fiber Type: Single-Mode, Connector (s): SC Connector, <br> Cable Length : 1.5M, Minimum Bending Radius: 3.8cm.</li>
+  <li> Ferrule material : ceramic; Working Wavelength: 850-1300nm</li>
+  <li> Insertion loss : ≤0.3.</li>
+  <li>Operating temperature : -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>
 </ul>
 </div>
 
@@ -2094,15 +2095,15 @@ productDesc = {
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p>These FC metal couplers are designed for mounting in standard round cut out style panels. Can be used with 2 FC single-mode or multi-mode fiber optic jumper cables. <br><br>
-  This series features either ceramic alignment sleeves to meet your specific design requirements. Additionally, these couplers can be used with PC or UPC style fiber connectors. <br><br>
+  <p>These FC metal couplers are designed for mounting in standard round cut out style panels. Can be used with 2 FC single-mode or multi-mode fiber optic jumper cables. 
+  This series features either ceramic alignment sleeves to meet your specific design requirements. Additionally, these couplers can be used with PC or UPC style fiber connectors. 
   These adapters are standard Single & Double ‘D’ hole compatible. The combination of a ceramic alignment sleeves and a precision metal housing provides consistent long-term mechanical and optical performance.
   Round with thread. The external reinforcement method is to use a metal sleeve. Generally used with optical distribution frames. Quick assembly FC connector can provide quick and easy termination of fibers in the field.</p>
   </div>
   <div class="box1">
     <h4> Features:</h4>
     <ul>
-      <li> Insertion Loss: 0.2dB (1350nm & 1550nm)</li>
+      <li> Insertion Loss : 0.2dB (1350nm & 1550nm)</li>
       <li> High precision alignment.</li>
       <li> Good Interchangeability.</li>
       <li> Storage Temperature (-40°C~80°C)</li>
@@ -2130,8 +2131,8 @@ productDesc = {
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p>ST couplers series features multiple mounting options for 3/8” D hole and standard rectangular cut out style panels. <br>
-  Additionally, these couplers can be used with PC or UPC style fiber connectors. <br>
+  <p>ST couplers series features multiple mounting options for 3/8” D hole and standard rectangular cut out style panels. 
+  Additionally, these couplers can be used with PC or UPC style fiber connectors. 
   The combination of a ceramic alignment sleeves and a precision metal housing provides consistent long-term mechanical and optical performance.</p>
   </div>
   <div class="box1">
@@ -2167,7 +2168,7 @@ productDesc = {
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p>These couplers can be used with PC or UPC style fiber connectors. <br><br>
+  <p>These couplers can be used with PC or UPC style fiber connectors.
 
   The combination of a zirconia ceramic sleeves and a precision molded polymer housing provides consistent long term mechanical and optical performance.</p>
   </div>
@@ -2204,7 +2205,7 @@ productDesc = {
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p> These couplers can be used with PC or UPC style fiber connectors.<br><br>
+  <p> These couplers can be used with PC or UPC style fiber connectors.
 
   The combination of a zirconia ceramic sleeves and a precision moulded polymer housing provides consistent long term mechanical and optical performance.</p>
   </div>
@@ -2245,7 +2246,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p>These couplers can be used with PC or UPC style fiber connectors.<br><br>
+  <p>These couplers can be used with PC or UPC style fiber connectors.
 
   The combination of a zirconia ceramic sleeves and a precision moulded polymer housing provides consistent long term mechanical and optical performance.</p>
   </div>
@@ -2286,7 +2287,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p>These couplers can be used with PC or UPC style fiber connectors.<br><br>
+  <p>These couplers can be used with PC or UPC style fiber connectors.
 
   The combination of a zirconia ceramic sleeves and a precision moulded polymer housing provides consistent long term mechanical and optical performance.</p>
   </div>
@@ -2330,7 +2331,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 
   <h2>Product Description</h2>
   <div class="box1">
-  <p>These couplers can be used with PC or UPC style fiber connectors.<br><br>
+  <p>These couplers can be used with PC or UPC style fiber connectors.
 
   The combination of a zirconia ceramic sleeves and a precision moulded polymer housing provides consistent long term mechanical and optical performance.</p>
   </div>
@@ -2372,7 +2373,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p>These couplers can be used with PC or UPC style fiber connectors.<br><br>
+  <p>These couplers can be used with PC or UPC style fiber connectors.
 
   The combination of a zirconia ceramic sleeves and a precision moulded polymer housing provides consistent long term mechanical and optical performance.</p>
   </div>
@@ -2414,7 +2415,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p>These couplers can be used with PC or UPC style fiber connectors. <br><br>
+  <p>These couplers can be used with PC or UPC style fiber connectors.
 
   The combination of a zirconia ceramic sleeves and a precision moulded polymer housing provides consistent long term mechanical and optical performance.</p>
   </div>
@@ -2687,9 +2688,9 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   // FIBER OPTICS HYBRID ADAPTER 
   "Fiber Optic Hybrid Adapter_SINGLEMODE SIMPLEX_ST-LC": {
     "title": "ST-LC HYBRID FIBER OPTIC ADAPTER",
-    "info": `ST-LC hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.  <br><br>
+    "info": `ST-LC hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.  <br>
 
-  Additionally, this adapter can be used with PC or UPC style fiber connectors. Hybrid adapters are commonly used to fit two different kind of fiber optic connectors.<br><br>
+  Additionally, this adapter can be used with PC or UPC style fiber connectors. Hybrid adapters are commonly used to fit two different kind of fiber optic connectors.
   
   These adapters are precision made and manufactured to demanding specifications. The combination of a ceramic / phosphor bronze alignment sleeves and a precision molded polymer housing provides consistent long-term mechanical and optical performance.`,
     "image": "../../public/productImage/fiber hybride adapter cable/st-lc_hybrid_adapter.png",
@@ -2699,12 +2700,12 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Brand:Sprectrum</li>
-    <li>Material:metal</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Type:Female</li>
-    <li>Number Of Pins:Simplex </li>
-    <li>  Insertion Loss:0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
+ 
+    <li>Material : metal</li>
+
+    <li>Type : Female</li>
+    <li>Number Of Pins : Simplex </li>
+    <li>  Insertion Loss : 0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
   </ul>
 </div>
 
@@ -2744,7 +2745,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <h2>Product Description</h2>
   <div class="box1">
   <h4>About Product</h4>
-  <p>Hybrid adapters are commonly used to fit two different kind of fiber optic connectors.<br><br>
+  <p>Hybrid adapters are commonly used to fit two different kind of fiber optic connectors.<br>
   
   These adapters are precision made and manufactured to demanding specifications. The combination of a ceramic / phosphor bronze alignment sleeves and a precision molded polymer housing provides consistent long-term mechanical and optical performance.</p>
   </div>
@@ -2752,12 +2753,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Brand:Spectrum</li>
-    <li>Material:metal</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Type:Female</li>
-    <li>Number Of Pins:Simplex </li>
-    <li>  Insertion Loss:0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
+  <li>Material : metal</li>
+
+  <li>Type : Female</li>
+  <li>Number Of Pins : Simplex </li>
+  <li>  Insertion Loss : 0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
   </ul>
 </div>
 
@@ -2789,9 +2789,9 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Fiber Optic Hybrid Adapter_SINGLEMODE SIMPLEX_FC-ST": {
     "title": "FC-ST HYBRID FIBER OPTIC ADAPTER",
-    "info": `FC-ST hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.  <br><br>
+    "info": `FC-ST hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.  <br>
 
-  Additionally, this adapter can be used with PC or UPC style fiber connectors. Hybrid adapters are commonly used to fit two different kind of fiber optic connectors.<br><br>
+  Additionally, this adapter can be used with PC or UPC style fiber connectors. Hybrid adapters are commonly used to fit two different kind of fiber optic connectors.
   
   These adapters are precision made and manufactured to demanding specifications. The combination of a ceramic / phosphor bronze alignment sleeves and a precision molded polymer housing provides consistent long-term mechanical and optical performance.`,
     "image": "../../public/productImage/fiber hybride adapter cable/fc-st-hybride-adapter.png",
@@ -2801,12 +2801,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Brand:SPECTRUM</li>
-    <li>Material:ABS PLASTIC</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Type:Female</li>
-    <li>Number Of Pins:Simplex </li>
-    <li>  Insertion Loss:0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
+  <li>Material : metal</li>
+
+  <li>Type : Female</li>
+  <li>Number Of Pins : Simplex </li>
+  <li>  Insertion Loss : 0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
   </ul>
 </div>
 
@@ -2838,7 +2837,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Fiber Optic Hybrid Adapter_SINGLEMODE SIMPLEX_SC-LC": {
     "title": "SC-LC HYBRID FIBER OPTIC ADAPTER",
-    "info": `SC-LC hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.  <br><br>
+    "info": `SC-LC hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.<br>
 
   Additionally, this adapter can be used with PC or UPC style fiber connectors. `,
     "image": "../../public/productImage/fiber hybride adapter cable/sc-lc-hybride-adapter.png",
@@ -2855,12 +2854,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Brand:SPECTRUM</li>
-    <li>Material:ABS PLASTIC</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Type:Female</li>
-    <li>Number Of Pins:Simplex </li>
-    <li>  Insertion Loss:0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
+  <li>Material : metal</li>
+
+  <li>Type : Female</li>
+  <li>Number Of Pins : Simplex </li>
+  <li>  Insertion Loss : 0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
   </ul>
 </div>
 
@@ -2892,7 +2890,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Fiber Optic Hybrid Adapter_SINGLEMODE SIMPLEX_SC-FC": {
     "title": "SC-FC HYBRID FIBER OPTIC ADAPTER",
-    "info": `SC-FC hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.  <br><br>
+    "info": `SC-FC hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.
 
   Additionally, this adapter can be used with PC or UPC style fiber connectors.`,
     "image": "../../public/productImage/fiber hybride adapter cable/sc-fc-hybride-adapter.png",
@@ -2909,12 +2907,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Brand:SPECTRUM</li>
-    <li>Material:metal</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Type:Female</li>
-    <li>Number Of Pins:Simplex </li>
-    <li>  Insertion Loss:0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
+  <li>Material : metal</li>
+
+  <li>Type : Female</li>
+  <li>Number Of Pins : Simplex </li>
+  <li>  Insertion Loss : 0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
   </ul>
 </div>
 
@@ -2946,9 +2943,9 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Fiber Optic Hybrid Adapter_SINGLEMODE SIMPLEX_SC-ST SIMPLEX&DUPLEX": {
     "title": "SC-ST SIMPLEX&DUPLEX HYBRID FIBER OPTIC ADAPTER",
-    "info": `SC-ST SIMPLEX&DUPLEX hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking.  <br><br>
+    "info": `SC-ST SIMPLEX&DUPLEX hybrid adapters are designed for mounting pin panels with rectangular cut outs. This adapter features a bronze alignment sleeve which provides durability and resistance to cracking. 
 
-  Additionally, this adapter can be used with PC or UPC style fiber connectors. Hybrid adapters are commonly used to fit two different kind of fiber optic connectors.<br><br>
+  Additionally, this adapter can be used with PC or UPC style fiber connectors. Hybrid adapters are commonly used to fit two different kind of fiber optic connectors.
   
   These adapters are precision made and manufactured to demanding specifications. The combination of a ceramic / phosphor bronze alignment sleeves and a precision molded polymer housing provides consistent long-term mechanical and optical performance.`,
     "image": "../../public/productImage/fiber hybride adapter cable/sc-st-hybride-adapter.png",
@@ -2958,12 +2955,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Brand:SPECTRUM</li>
-    <li>Material:ABS PLASTIC</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Type:Female</li>
-    <li>Number Of Pins:Simplex </li>
-    <li>  Insertion Loss:0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
+  <li>Material : metal</li>
+
+  <li>Type : Female</li>
+  <li>Number Of Pins : Simplex </li>
+  <li>  Insertion Loss : 0.1 dB ( 1310 & 1550nm ) / 0.3 dB ( 850nm )</li>
   </ul>
 </div>
 
@@ -2998,7 +2994,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   //FIBER OPTIC ATTENUATORS
   "Fiber Optic Attenuators _SINGLEMODE&MULTIMODE_SC": {
     "title": "SC FIBER OPTIC ATTENUATORS",
-    "info": `SC fiber optic attenuator, is a device used to reduce the power level of an optical signal, either in free space or in an optical fiber. Optical attenuators are commonly used in fiber optic communications, either to test power level margins by temporarily adding a calibrated amount of signal loss, or installed permanently to properly match transmitter and receiver levels. <br>
+    "info": `SC fiber optic attenuator, is a device used to reduce the power level of an optical signal, either in free space or in an optical fiber. Optical attenuators are commonly used in fiber optic communications, either to test power level margins by temporarily adding a calibrated amount of signal loss, or installed permanently to properly match transmitter and receiver levels. 
 
   `,
     "image": "../../public/productImage/fiber optics attenuators/sc.png",
@@ -3012,11 +3008,10 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Attenuation:0-25dB</li>
-    <li>Product Type:Male to Female</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Fiber:Single mode & Multimode</li>
-    <li>No. of Fiber:Simplex </li>
+    <li>Attenuation : 0-25dB</li>
+    <li>Product Type : Male to Female</li>
+    <li>Fiber : Single mode & Multimode</li>
+    <li>No. of Fiber : Simplex </li>
   
   </ul>
 </div>
@@ -3051,7 +3046,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Fiber Optic Attenuators _SINGLEMODE&MULTIMODE_LC": {
     "title": "LC FIBER OPTIC ATTENUATORS",
-    "info": `LC fiber optic attenuator, is a device used to reduce the power level of an optical signal, either in free space or in an optical fiber. Optical attenuators are commonly used in fiber optic communications, either to test power level margins by temporarily adding a calibrated amount of signal loss, or installed permanently to properly match transmitter and receiver levels. <br><br>
+    "info": `LC fiber optic attenuator, is a device used to reduce the power level of an optical signal, either in free space or in an optical fiber. Optical attenuators are commonly used in fiber optic communications, either to test power level margins by temporarily adding a calibrated amount of signal loss, or installed permanently to properly match transmitter and receiver levels. 
 
 `,
     "image": "../../public/productImage/fiber optics attenuators/lc.png",
@@ -3065,11 +3060,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Attenuation:0-25dB</li>
-    <li>Product Type:Male to Female</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Fiber:Single mode & Multimode</li>
-    <li>No. of Fiber:Simplex </li>
+  <li>Attenuation : 0-25dB</li>
+  <li>Product Type : Male to Female</li>
+  <li>Fiber : Single mode & Multimode</li>
+  <li>No. of Fiber : Simplex </li>
+
   
   </ul>
 </div>
@@ -3104,7 +3099,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Fiber Optic Attenuators _SINGLEMODE&MULTIMODE_ST": {
     "title": "ST FIBER OPTIC ATTENUATORS",
-    "info": `ST fiber optic attenuator, is a device used to reduce the power level of an optical signal, either in free space or in an optical fiber. Optical attenuators are commonly used in fiber optic communications, either to test power level margins by temporarily adding a calibrated amount of signal loss, or installed permanently to properly match transmitter and receiver levels. <br><br>
+    "info": `ST fiber optic attenuator, is a device used to reduce the power level of an optical signal, either in free space or in an optical fiber. Optical attenuators are commonly used in fiber optic communications, either to test power level margins by temporarily adding a calibrated amount of signal loss, or installed permanently to properly match transmitter and receiver levels.
 
   ST attenuator feature a male connector at the front end and a female socket adapter at the back. Each attenuator is made with continues light absorbing and metal-ion doped fiber which provides excellent environmental stability and low back reflection. With this simple yet reliable structure, attenuators are added to the optical path without extra connectors.`,
     "image": "../../public/productImage/fiber optics attenuators/st.png",
@@ -3114,11 +3109,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Attenuation:0-25dB</li>
-    <li>Product Type:Male to Female</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Fiber:Single mode & Multimode</li>
-    <li>No. of Fiber:Simplex </li>
+  <li>Attenuation : 0-25dB</li>
+  <li>Product Type : Male to Female</li>
+  <li>Fiber : Single mode & Multimode</li>
+  <li>No. of Fiber : Simplex </li>
+
   
   </ul>
 </div>
@@ -3153,7 +3148,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Fiber Optic Attenuators _SINGLEMODE&MULTIMODE_E2000": {
     "title": "E2000 FIBER OPTIC ATTENUATORS",
-    "info": `E2000 fiber optic attenuator, is a device used to reduce the power level of an optical signal, either in free space or in an optical fiber. Optical attenuators are commonly used in fiber optic communications, either to test power level margins by temporarily adding a calibrated amount of signal loss, or installed permanently to properly match transmitter and receiver levels. <br><br>
+    "info": `E2000 fiber optic attenuator, is a device used to reduce the power level of an optical signal, either in free space or in an optical fiber. Optical attenuators are commonly used in fiber optic communications, either to test power level margins by temporarily adding a calibrated amount of signal loss, or installed permanently to properly match transmitter and receiver levels.
 
   E2000 attenuator feature a male connector at the front end and a female socket adapter at the back. Each attenuator is made with continues light absorbing and metal-ion doped fiber which provides excellent environmental stability and low back reflection. With this simple yet reliable structure, attenuators are added to the optical path without extra connectors.`,
     "image": "../../public/productImage/fiber optics attenuators/e2000.png",
@@ -3163,11 +3158,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Attenuation:0-25dB</li>
-    <li>Product Type:Male to Female</li>
-    <li>Brand Name: OpZonik</li>
-    <li>Fiber:Single mode & Multimode</li>
-    <li>No. of Fiber:Simplex </li>
+  <li>Attenuation : 0-25dB</li>
+  <li>Product Type : Male to Female</li>
+  <li>Fiber : Single mode & Multimode</li>
+  <li>No. of Fiber : Simplex </li>
+
   
   </ul>
 </div>
@@ -3215,7 +3210,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 
   "Breakout Cable_SINGLEMODE_12 FIBER": {
     "title": "12 FIBER INDOOR BREAKOUT CABLE",
-    "info": `12 Fiber Indoor Breakout is made with 12 Fiber cable, that is available in both armored and unarmored and single mode with multimode, cable category strictly depend upon customer need and project requirement. Pre-terminated cable designed primarily for indoor interconnections between transmission equipment and receiving equipment. <br><br>
+    "info": `12 Fiber Indoor Breakout is made with 12 Fiber cable, that is available in both armored and unarmored and single mode with multimode, cable category strictly depend upon customer need and project requirement. Pre-terminated cable designed primarily for indoor interconnections between transmission equipment and receiving equipment.
 
   `,
     "image": "../../public/productImage/breakout cable/12breakout.png",
@@ -3279,7 +3274,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Breakout Cable_SINGLEMODE_48 FIBER": {
     "title": "48 FIBER INDOOR BREAKOUT CABLE",
-    "info": `48 Fiber Indoor Breakout is made with 48 Fiber cable, that is available in both armored and unarmored and single mode with multimode, cable category strictly depend upon customer need and project requirement. Pre-terminated cable designed primarily for indoor interconnections between transmission equipment and receiving equipment. <BR><BR>
+    "info": `48 Fiber Indoor Breakout is made with 48 Fiber cable, that is available in both armored and unarmored and single mode with multimode, cable category strictly depend upon customer need and project requirement. Pre-terminated cable designed primarily for indoor interconnections between transmission equipment and receiving equipment.
 
  `,
     "image": "../../public/productImage/breakout cable/48breakout.png",
@@ -3352,7 +3347,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   //LOOPBACK ADAPTER TEST CABLE
   "Loopback Adapter Test Cable_SINGLEMODE_SC": {
     "title": "SC LOOPBACK ADAPTER TEST CABLE",
-    "info": `SC Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair. <br><br>
+    "info": `SC Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair.
 
  `,
     "image": "../../public/productImage/loopback adapter test cable/sc.jpg",
@@ -3400,7 +3395,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Loopback Adapter Test Cable_SINGLEMODE_LC": {
     "title": "LC LOOPBACK ADAPTER TEST CABLE",
-    "info": `LC Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair. <br><br>
+    "info": `LC Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair. 
 
  `,
     "image": "../../public/productImage/loopback adapter test cable/lc.png",
@@ -3447,7 +3442,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Loopback Adapter Test Cable_SINGLEMODE_FC": {
     "title": "FC LOOPBACK ADAPTER TEST CABLE",
-    "info": `FC Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair. <br>
+    "info": `FC Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair.
  `,
     "image": "../../public/productImage/loopback adapter test cable/fc.jpg",
     "description": `<div class="descrip">
@@ -3493,7 +3488,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Loopback Adapter Test Cable_SINGLEMODE_MTRJ": {
     "title": "MTRJ LOOPBACK ADAPTER TEST CABLE",
-    "info": `MTRJ Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair. <br><br>
+    "info": `MTRJ Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair. 
 
   By doing this, a complete optical link is formed, allowing the optical performance evaluation of a discrete component or a complete link in a network path covering one or more interfaces.`,
     "image": "../../public/productImage/loopback adapter test cable/mtjr.jpg",
@@ -3515,12 +3510,12 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
     <h4>Feature  </h4>
     <ul>
-      <li>1) Available in single mode and multimode version</li>
-      <li>2) Connector end: PC, UPC, APC</li>
-      <li>3) High precision alignment</li>
-      <li>4) High disposal density</li>
-      <li>5) Low insertion loss</li>
-      <li>6) High return loss</li>
+      <li> Available in single mode and multimode version</li>
+      <li> Connector end: PC, UPC, APC</li>
+      <li> High precision alignment</li>
+      <li> High disposal density</li>
+      <li> Low insertion loss</li>
+      <li> High return loss</li>
     </ul>
   </div>
   <div class="box1">
@@ -3537,7 +3532,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   },
   "Loopback Adapter Test Cable_SINGLEMODE_MU": {
     "title": "MU LOOPBACK ADAPTER TEST CABLE",
-    "info": `MU Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair. <br><br>
+    "info": `MU Loopback Adapter Test Cable are used primarily as a mean to test optical link in networks or devices by loop back the connections from the TX (transmit) pairs to the RX (receive) pair. 
 
   By doing this, a complete optical link is formed, allowing the optical performance evaluation of a discrete component or a complete link in a network path covering one or more interfaces.`,
     "image": "../../public/productImage/loopback adapter test cable/mu.jpg",

@@ -65,7 +65,7 @@
               <li class="categoryList mr-2"><img src="../../public/image/icon1.png" alt=""> PRODUCT-CATEGORY
                 <ul class="sub_list">
                   {{#each data}}
-                  <li>{{categoryName}}
+                  <li><a href="/{{newCategory}}">{{categoryName}}</a>
                     <ul class="sub_list1">
                       {{#subCategories}}
                       <li><a href="/{{categoryName}}_{{subCategoryName}}">{{subCategoryName}} </a>

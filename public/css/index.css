@@ -443,6 +443,10 @@ section{
    
     font-size: 12px;
   }
+  .sub_list li a{
+    text-decoration: none;
+    font-size: 11px !important;
+  }
   /*  */
 
   .category>li:hover .sub_list{

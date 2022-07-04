@@ -283,26 +283,26 @@ productList = {
         {
             "image":"../../public/productImage/Adapter_Cables/LC TO SC S.MODE DX ADAPTER CABLE.jpg",
             "imageName":"LC TO SC",
-            "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO SC",
-            "content":"OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode 9/125um Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)"
+            "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO ST",
+            "content":"OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode 9/125µm Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)"
         },
         {
             "image":"../../public/productImage/Adapter_Cables/LC TO ST  S.MODE DX ADPTER CABLE.jpg",
             "imageName":"LC TO ST",
-            "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO ST",
-            "content":"OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode  9/125 Duplex, LC Male to ST Female Fiber Adapter Cable – 0.3 Meter (1FT)"
+            "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO SC",
+            "content":"OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode  9/125µm Duplex, LC Male to ST Female Fiber Adapter Cable – 0.2 Meter (1FT)"
         },
         {
             "image":"../../public/productImage/Adapter_Cables/LC TO SC M.MODE DX ADAPTER CABLE.jpg",
             "imageName":"LC TO SC",
             "class":"Fiber Optic Adapter Cable_MULTIMODE DUPLEX_LC TO SC",
-            "content":"OpZonik 1FT LC to SC Fiber Optic Adapter Cable Multimode OM1 62.5/125 Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)"
+            "content":"OpZonik 1FT LC to SC Fiber Optic Adapter Cable Multimode OM1 62.5/125µm Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)"
         },
         {
             "image":"../../public/productImage/Adapter_Cables/LC TO ST M.MODE DX ADAPTER CABLE.jpg",
             "imageName":"LC TO ST",
             "class":"Fiber Optic Adapter Cable_MULTIMODE DUPLEX_LC TO ST",
-            "content":"OpZonik 1FT LC to ST Fiber Optic Adapter Cable Multimode OM1 62.5/125 Duplex, LC Female to ST Male Fiber Adapter Cable – 0.3 Meter (1 FT)"
+            "content":"OpZonik 1FT LC to ST Fiber Optic Adapter Cable Multimode OM1 62.5/125µm Duplex, LC Female to ST Male Fiber Adapter Cable – 0.2 Meter (1 FT)"
         },
     ]
   },
@@ -317,52 +317,53 @@ productList = {
             "content":"OpZonik FC Female to FC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler"
         },
         {
-            "image":"../../public/productImage/New Adapter/ST TO ST SX S.MODE.jpg",
+            "image":"../../public/opzonik_resize/adaptor_new/singlemode simplex/ST-TO-ST-SX-S.MODE.png",
             "imageName":"ST TO ST",
             "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_ST TO ST",
             "content":"OpZonik ST Female to ST Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler"
         },
         {
-            "image":"../../public/productImage/Adaptar/OpZonik High Quality Singlemode Simplex Fiber Optic Cable Adapter  Coupler  SC  to  SC Female/SC S.MODE SX ADAPTER.jpg",
+            "image":"../../public/opzonik_resize/adaptor_new/singlemode simplex/SC-S.MODE-SX-ADAPTER.png",
             "imageName":"SC TO SC",
             "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_SC TO SC",
             "content":"OpZonik SC Female to SC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler "
         },
         {
-            "image":"../../public/productImage/Adaptar\SC S.MODE DX ADAPTER/SC S.MODE DX ADAPTER.jpg",
+            "image":"../../public/opzonik_resize/adaptor_new/singlemode simplex/SCAPC-S.MODE-SX-ADAPTER.png",
+            "imageName":"SC TO SCAPC",
+            "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_SC TO SCAPC",
+            "content":"OpZonik SC Female to SCAPC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler "
+        },
+        {
+            "image":"../../public/opzonik_resize/adaptor_new/singlemode duplex/SC-S.MODE-DX-ADAPTER.png",
             "imageName":"SC TO SC",
             "class":"Fiber Optic Adapter_SINGLEMODE DUPLEX_SC TO SC",
             "content":"OpZonik SC Female to SC Female Singlemode Duplex Fiber Optic Cable Adapter / Coupler"
         },
         {
-            "image":"../../public/productImage/Pigtail/SC FIBER OPTIC PIGTAIL S.MODE 12 CORE.jpg",
-            "imageName":"SC TO SC",
-            "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_SC TO SC",
-            "content":"OpZonik SC Female to SC Female APC Singlemode Simplex Fiber Optic Cable Adapter Coupler"
-        },
-        {
-            "image":"../../public/productImage/Adaptar/OpZonik High Quality Singlemode Duplex Fiber Optic Cable Adapter  Coupler LC to LC Female/LC S.MODE DX ADAPTER.jpg",
+            "image":"../../public/opzonik_resize/adaptor_new/singlemode duplex/LC-S.MODE-DX-ADAPTER.png",
             "imageName":"LC TO LC",
-            "class":"Fiber Optic Adapter_SINGLEMODE DUPLEX_SC TO SC",
-            "content":"OpZonik LC Female to LC Female Singlemode Duplex Fiber Optic Cable Adapter / Coupler"
+            "class":"Fiber Optic Adapter_SINGLEMODE DUPLEX_LC TO LC",
+            "content":"OpZonik LC Female to LC Female APC Singlemode Duplex Fiber Optic Cable Adapter Coupler"
         },
         {
-            "image":"../../public/productImage/Adaptar/OpZonik High Quality Multimode Duplex Fiber Optic Cable Adapter  Coupler SC to SC Female/SC M.MODE DX ADAPTER.jpg",
-            "imageName":"SC TO SC",
-            "class":"Fiber Optic Adapter_MULTIMODE DUPLEX_SC TO SC",
-            "content":"OpZonik SC Female to SC Female Multimode Duplex Fiber Optic Cable Adapter / Coupler"
-        },
-        {
-            "image":"../../public/productImage/New Adapter/LC TO LC DX M.MODE.jpg",
-            "imageName":"LC TO LC",
-            "class":"Fiber Optic Adapter_MULTIMODE DUPLEX_LC TO LC",
-            "content":"OpZonik LC Female to LC Female Multimode Duplex Fiber Optic Cable Adapter / Coupler "
-        },
-        {
-            "image":"../../public/productImage/New Adapter/SC TO SC SX M.MODE.jpg",
+            "image":"../../public/opzonik_resize/adaptor_new/multimode simplex/SC-TO-SC-SX-M.MODE.png",
             "imageName":"SC TO SC",
             "class":"Fiber Optic Adapter_MULTIMODE SIMPLEX_SC TO SC",
-            "content":"OpZonik SC Female to SC Female Multimode Simplex Fiber Optic Cable Adapter / Coupler "
+            "content":"OpZonik SC Female to SC Female Multimode simplex Fiber Optic Cable Adapter / Coupler"
+        },
+      
+        {
+            "image":"../../public/opzonik_resize/adaptor_new/multimode duplex/SC-M.MODE-DX-ADAPTER.png",
+            "imageName":"SC TO SC",
+            "class":"Fiber Optic Adapter_MULTIMODE DUPLEX_SC TO SC",
+            "content":"OpZonik SC Female to SC Female Multimode Duplex Fiber Optic Cable Adapter / Coupler "
+        },
+        {
+            "image":"../../public/opzonik_resize/adaptor_new/multimode duplex/LC-TO-LC-DX-M.MODE.png",
+            "imageName":"LC TO LC",
+            "class":"Fiber Optic Adapter_MULTIMODE DUPLEX_LC TO LC",
+            "content":"OpZonik LC Female to LC Female Multimode Simplex Fiber Optic Cable Adapter / Coupler "
         },
     ]
   },
@@ -438,14 +439,14 @@ productList = {
         {
             "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.png",
             "imageName":"OM2",
-            "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM1_SC",
-            "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
+            "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM2_ST",
+            "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
         },
         {
             "image":"../../public/productImage/Pigtail/MULTIMODE OM 3 LC.jpg",
             "imageName":"OM3",
-            "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM3_SC",
-            "content":"OpZonik 1.5M 12 Strand Multimode OM3 50/125um SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
+            "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM3_LC",
+            "content":"OpZonik 1.5M 12 Strand Multimode OM3 50/125um LC Fiber optic pigtails, 12 Color-Coded LC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
         },
        
     ]
