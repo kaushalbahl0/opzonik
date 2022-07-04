@@ -1,12 +1,21 @@
 .box_new{
-    border: 1px solid grey;
+    border: 3px solid #666;
     margin-bottom: 10px;
     padding: 10px;
+    border-radius: 5px;
+    height: 500px;
+    width: 100%;
+
 }
 .content_img p{
     text-decoration: none !important;
-    color: black;
+    color: #666 !important;
     font-size: 14px;
+    font-family: 'Dosis',sans-serif;
+    font-weight: normal;
+}
+.content_img h4{
+    color: rgb(68, 65, 65);
 }
 .Product-section{
     height: 300px;
@@ -14,4 +23,9 @@
 }
 .content_img {
     height: 127px
+}
+.more_btn{
+    padding: 10px 30px;
+    background-color: grey;
+    color:white
 }

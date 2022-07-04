@@ -15,7 +15,7 @@ productList = {
             "content":"OpZonik LC TO LC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO LC"
         },
         {
-            "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/FC TO FC.jpg",
+            "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/LC TO FC.jpg",
             "imageName":"LC TO FC",
             "class":"Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_LC TO FC",
             "content":"OpZonik LC TO FC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO FC"
@@ -35,9 +35,9 @@ productList = {
              },
              {
                 "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/SCAPC TO SCAPC.jpg",
-                "imageName":"SCAPC TO SCAPC",
+                "imageName":"FCAPC TO SCAPC",
                 "class":"Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SCAPC TO SCAPC",
-                "content":"OpZonik SCAPC TO SCAPC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SCAPC TO SCAPC"
+                "content":"OpZonik FCAPC TO SCAPC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FCAPC TO SCAPC"
             },
             {
                 "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/SCAPC TO SC.jpg",
@@ -85,8 +85,8 @@ productList = {
             {
                 "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/FC TO ST.jpg",
                 "imageName":"FC TO ST",
-                "class":"Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_FC TO FC",
-                "content":"OpZonik FC TO FC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FC TO FC"
+                "class":"Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_FC TO ST",
+                "content":"OpZonik FC TO ST Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FC TO ST"
             },
             {
                 "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/ST TO ST.jpg",
