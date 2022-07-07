@@ -193,7 +193,30 @@ OpzonikSchema=[{
         }
        
     ]
-    },{
+    },
+    {
+        "subCategoryName":"MULTIMODE OM3",
+        "categoryName":"Fiber Optic Patch Cable",
+        "products":[
+            {"productName":"LC TO LC"
+            ,
+            "categoryName":"Fiber Optic Patch Cable",
+            "subCategoryName":"MULTIMODE OM4",
+        },
+        {
+            "productName":"LC TO SC"
+            ,
+            "categoryName":"Fiber Optic Patch Cable",
+            "subCategoryName":"MULTIMODE OM4",
+        }, {
+            "productName":"SC TO SC"
+            ,
+            "categoryName":"Fiber Optic Patch Cable",
+            "subCategoryName":"MULTIMODE OM4",
+        }
+    ]
+    },
+    {
         "subCategoryName":"MULTIMODE OM4",
         "categoryName":"Fiber Optic Patch Cable",
         "products":[

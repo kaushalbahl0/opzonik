@@ -47,9 +47,9 @@ productList = {
             },
             {
                 "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/SCAPC TO FC.jpg",
-                "imageName":"SCAPC TO FC",
+                "imageName":"FC TO SCAPC",
                 "class":"Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SCAPC TO FC",
-                "content":"OpZonik SCAPC TO FC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SCAPC TO FC"
+                "content":"OpZonik  FC TO SCAPC  Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable   FC TO SCAPC "
             },
             {
                 "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/SCAPC TO ST.jpg",
@@ -224,18 +224,18 @@ productList = {
       {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM3/LC TO LC.jpg",
         "imageName":"LC TO LC",
-        "class":"Fiber_Optic_Patch_Cable",
-        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM3 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC"
+        "class":"Fiber Optic Patch Cable_MULTIMODE OM3_LC TO LC",
+        "content":"OpZonik LC to LC Fiber Optic Patch Cable Multimode OM3 Duplex 50/125µm, Optical Patch Cord 1G/10G/40G Fiber Optic Cable LC-LC   "
     },{
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM3/LC TO SC.jpg",
         "imageName":"LC TO SC",
-        "class":"Fiber_Optic_Patch_Cable",
-        "content":"OpZonik LC TO SC Fiber Optic Patch Cable Multimode OM3 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO SC"
+        "class":"Fiber Optic Patch Cable_MULTIMODE OM3_LC TO SC",
+        "content":"OpZonik LC to SC Fiber Optic Patch Cable Multimode OM3 Duplex 50/125µm, Optical Patch Cord 1G/10G/40G Fiber Optic Cable LC-SC"
     },{
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM3/SC TO SC.jpg",
         "imageName":"SC TO SC",
-        "class":"Fiber_Optic_Patch_Cable",
-        "content":"OpZonik SC TO SC Fiber Optic Patch Cable Multimode OM3 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable SC TO SC"
+        "class":"Fiber Optic Patch Cable_MULTIMODE OM3_SC TO SC",
+        "content":"OpZonik SC to SC Fiber Optic Patch Cable Multimode OM3 Duplex 50/125µm, Optical Patch Cord 1G/10G/40G Fiber Optic Cable SC-SC "
     },
     ]
   },
@@ -244,18 +244,18 @@ productList = {
       {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM4/LC TO LC.jpg",
         "imageName":"LC TO LC",
-        "class":"Fiber_Optic_Patch_Cable",
-        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM4 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC"
+        "class":"Fiber Optic Patch Cable_MULTIMODE OM4_LC TO LC",
+        "content":"OpZonik LC to LC Fiber Optic Patch Cable Multimode OM4 Duplex 50/125µm, Optical Patch Cord 100G/40G Fiber Optic Cable LC-LC"
     },{
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM4/LC TO SC.jpg",
         "imageName":"LC TO SC",
-        "class":"Fiber_Optic_Patch_Cable",
-        "content":"OpZonik LC TO SC Fiber Optic Patch Cable Multimode OM4 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO SC"
+        "class":"Fiber Optic Patch Cable_MULTIMODE OM4_LC TO SC",
+        "content":"OpZonik LC to SC Fiber Optic Patch Cable Multimode OM4 Duplex 50/125µm, Optical Patch Cord 100G/40G Fiber Optic Cable LC-SC"
     },{
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM4/SC TO SC.jpg",
         "imageName":"SC TO SC",
-        "class":"Fiber_Optic_Patch_Cable",
-        "content":"OpZonik SC TO SC Fiber Optic Patch Cable Multimode OM4 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable SC TO SC"
+        "class":"Fiber Optic Patch Cable_MULTIMODE OM4_SC TO SC",
+        "content":"OpZonik SC to SC Fiber Optic Patch Cable Multimode OM4 Duplex 50/125µm, Optical Patch Cord 100G/40G Fiber Optic Cable SC-SC "
     },
     ]
   },
@@ -434,7 +434,7 @@ productList = {
             "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.png",
             "imageName":"OM1",
             "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM1_SC",
-            "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
+            "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
         },
         {
             "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.png",
@@ -517,12 +517,12 @@ productList = {
             "class":"Loopback Adapter Test Cable_SINGLEMODE_LC",
             "content":"LC LOOPBACK ADAPTER TEST CABLE"
         },
-        {
-            "image":"../../public/productImage/loopback adapter test cable/fc.jpg",
-            "imageName":"FC",
-            "class":"Loopback Adapter Test Cable_SINGLEMODE_FC",
-            "content":"FC LOOPBACK ADAPTER TEST CABLE"
-        },
+        // {
+        //     "image":"../../public/productImage/loopback adapter test cable/fc.jpg",
+        //     "imageName":"FC",
+        //     "class":"Loopback Adapter Test Cable_SINGLEMODE_FC",
+        //     "content":"FC LOOPBACK ADAPTER TEST CABLE"
+        // },
        
     ]
   },
