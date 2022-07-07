@@ -2479,7 +2479,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 
   // fiber optic adapter cable 
   "Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO ST": {
-    "title": "OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode 9/125um Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)",
+    "title": "OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode 9/125um Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)",
     "info": ``,
     "image": "../../public/opzonik_resize/Adapter Cables/New folder/LC-TO-ST--S.MODE-DX-ADPTER-CABLE.png",
     "mark":"yes",
@@ -2488,9 +2488,9 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
     
     <ul>
-      <li> Connectors Type: LC Male TO SC Female Duplex</li>
+      <li> Connectors Type: LC Male TO ST Female Duplex</li>
       <li>  Fiber Type: Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards.</li>
-      <li> Cable Outer Diameter - 3.0mm and Jacketed LSZH (Low Smoke Zero Halogen)</li>
+      <li> Cable Outer Diameter - 2.0mm and Jacketed LSZH (Low Smoke Zero Halogen)</li>
       <li> Fiber Wavelength: 1310nm</li>
       <li>Factory Termination & 100% test for link loss and return loss.</li>
     </ul>
@@ -2509,7 +2509,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 </div>`
   },
   "Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO SC": {
-    "title": "OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode  9/125 Duplex, LC Male to ST Female Fiber Adapter Cable – 0.3 Meter (1FT)",
+    "title": "OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode  9/125 Duplex, LC Male to ST Female Fiber Adapter Cable – 0.3 Meter (1FT)",
     "info": ``,
     "image": "../../public/opzonik_resize/Adapter Cables/New folder/LC-TO-SC-S.MODE-DX-ADAPTER-CABLE.png",
     "mark":"yes",
@@ -2518,9 +2518,9 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
     
     <ul>
-      <li>  Connectors Type: LC Male TO ST Female Duplex</li>
+      <li>  Connectors Type: LC Male TO SC Female Duplex</li>
       <li> Fiber Type: Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards.</li>
-      <li>Cable Outer Diameter - 2.0mm and Jacketed LSZH (Low Smoke Zero Halogen)</li>
+      <li>Cable Outer Diameter - 3.0mm and Jacketed LSZH (Low Smoke Zero Halogen)</li>
       <li> Fiber Wavelength: 1310nm</li>
       <li>Factory Termination & 100% test for link loss and return loss.</li>
     </ul>
