@@ -455,12 +455,12 @@ productList = {
 //   BREAKOUT CABLE
 "Breakout Cable_SINGLEMODE":{
     "product":[
-        {
-            "image":"../../public/productImage/breakout cable/12breakout.png",
-            "imageName":" 12 BREAKOUT",
-            "class":"Breakout Cable_SINGLEMODE_12 FIBER",
-            "content":"12 FIBER INDOOR BREAKOUT CABLE"
-        },
+        // {
+        //     "image":"../../public/productImage/breakout cable/12breakout.png",
+        //     "imageName":" 12 BREAKOUT",
+        //     "class":"Breakout Cable_SINGLEMODE_12 FIBER",
+        //     "content":"12 FIBER INDOOR BREAKOUT CABLE"
+        // },
         {
             "image":"../../public/productImage/breakout cable/48breakout.png",
             "imageName":"48 BREAKOUT",

@@ -3317,7 +3317,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
-  <p> We can provide you with just about any pre-terminated fiber cable you may need. Our technical wing can terminate multimode 62.5 or 50 micron (OM1, OM2, OM3, and OM4) as well as single mode fiber. Standard connector options include LC, SC, FC and ST. We can also terminate other connector types such as MTRJ, E2000, MU, DIN, D4, and SMA. Connector end available in both PC/APC type</p>
+  <p> We can provide you with just about any pre-terminated fiber cable you may need. Our technical wing can terminate multimode 62.5 or 50 micron (OM1, OM2, OM3, and OM4) as well as single mode fiber. Standard connector options include LC, SC, FC and ST.Connector end available in both PC/APC type</p>
   </div>
   
   <div class="box1">
