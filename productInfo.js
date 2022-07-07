@@ -3323,7 +3323,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
   <div class="box1">
   
   <ul>
-    <li>Diameter : 5mm</li>
+    <li>Diameter : 3mm</li>
     <li>Product Type : Indoor Fanout</li>
     <li>Core Size : Single mode & Multimode</li>
     <li>Insertion Loss : Standard</li>
