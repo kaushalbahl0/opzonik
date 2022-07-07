@@ -283,14 +283,14 @@ productList = {
         {
             "image":"../../public/productImage/Adapter_Cables/LC TO SC S.MODE DX ADAPTER CABLE.jpg",
             "imageName":"LC TO SC",
-            "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO ST",
+            "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO SC",
             "content":"OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode 9/125µm Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)"
         },
         {
             "image":"../../public/productImage/Adapter_Cables/LC TO ST  S.MODE DX ADPTER CABLE.jpg",
             "imageName":"LC TO ST",
-            "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO SC",
-            "content":"OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode  9/125µm Duplex, LC Male to ST Female Fiber Adapter Cable – 0.2 Meter (1FT)"
+            "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO ST",
+            "content":"OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode  9/125µm Duplex, LC Male to ST Female Fiber Adapter Cable – 0.3 Meter (1FT)"
         },
         {
             "image":"../../public/productImage/Adapter_Cables/LC TO SC M.MODE DX ADAPTER CABLE.jpg",
@@ -302,7 +302,7 @@ productList = {
             "image":"../../public/productImage/Adapter_Cables/LC TO ST M.MODE DX ADAPTER CABLE.jpg",
             "imageName":"LC TO ST",
             "class":"Fiber Optic Adapter Cable_MULTIMODE DUPLEX_LC TO ST",
-            "content":"OpZonik 1FT LC to ST Fiber Optic Adapter Cable Multimode OM1 62.5/125µm Duplex, LC Female to ST Male Fiber Adapter Cable – 0.2 Meter (1 FT)"
+            "content":"OpZonik 1FT LC to ST Fiber Optic Adapter Cable Multimode OM1 62.5/125µm Duplex, LC Female to ST Male Fiber Adapter Cable – 0.3 Meter (1 FT)"
         },
     ]
   },

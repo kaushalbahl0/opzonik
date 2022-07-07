@@ -1,5 +1,13 @@
 {{>header}}
 
+<script>
+  Handlebars.registerHelper('ifCond', function(v1, v2, options) {
+  if(v1 === v2) {
+    return options.fn(this);
+  }
+});
+</script>
+
 <section id="details">
   <div class="container">
     <div class="row">
@@ -15,13 +23,21 @@
         <div class="content1" id="content2">
           <h4>{{productInfo.title}}</h4>
           <p>{{productInfo.info}}
-            <div class="two_btn">
-           <button type="button" class="btn request" data-bs-toggle="modal" data-bs-target="#exampleModal">Contact Seller</button>
-           <a href="/custom"> <button type="button" class="btn request" >Custom cable</button></a>
+          <div class="two_btn">
+            <button type="button" class="btn request" data-bs-toggle="modal" data-bs-target="#exampleModal">Contact
+              Seller</button>
+            {{!-- {{#if {{productInfo.mark}}=="yes"}
+
+            {{/if}} --}}
+            {{#if productInfo.mark}}
+            <a href="/custom"> <button type="button" class="btn request">Custom cable</button></a>
+
+            {{/if}}
+
           </div>
           </p>
 
-          
+
 
 
         </div>
@@ -129,26 +145,26 @@
                 <input type="text" class="form-control" id="modal_name" placeholder="Enter name">
                 <p id="m_name"></p>
               </div>
-               <div class="form-group mt-3">
+              <div class="form-group mt-3">
                 <label for="" class="mb-2">Mobile No</label>
                 <input type="text" class="form-control" id="modal_number" placeholder="Enter mobile number">
-                 <p id="m_number"></p>
+                <p id="m_number"></p>
               </div>
               <div class="form-group mt-3">
                 <label for="" class="mb-2">Email</label>
                 <input type="text" class="form-control" id="modal_email" placeholder="Enter mail">
-                 <p id="m_email"></p>
+                <p id="m_email"></p>
               </div>
-             
+
               <div class="form-group mt-3">
                 <label for="" class="mb-2">address</label>
                 <input type="text" class="form-control" id="modal_address" placeholder="Enter address">
-                 <p id="m_address"></p>
+                <p id="m_address"></p>
               </div>
               <div class="form-group mt-3">
                 <label for="" class="mb-2">Query</label>
                 <textarea name="" class="form-control" id="modaltext" placeholder="Enter query"></textarea>
-                 <p id="m_query"></p>
+                <p id="m_query"></p>
               </div>
             </form>
           </div>

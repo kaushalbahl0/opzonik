@@ -1,7 +1,9 @@
 productDesc = {
   "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_FC TO FC": {
     "title": " OpZonik FC TO FC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FC TO FC ",
-    "info": `FC to FC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen). <br> For any type of customization of length and connectors configuration contact seller.`,
+    "info": `FC to FC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen). <br> For any type of customization of length and connectors configuration contact seller.
+    `,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/FC-TO-FC.png",
     "description": `<div class="descrip">
       <h2>Product Description</h2>
@@ -62,6 +64,7 @@ productDesc = {
   "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_FC TO SC": {
     "title": "OpZonik FC TO SC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FC TO SC ",
     "info": `FC to SC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/FC-TO-SC.png",
     "description": `<div class="descrip">
     <h2>Product Description</h2>
@@ -122,6 +125,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_FC TO ST": {
     "title": "OpZonik FC TO ST Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FC TO ST ",
     "info": `FC to ST Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/FC-TO-ST.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -182,6 +186,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_LC TO FC": {
     "title": "OpZonik LC TO FC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO FC ",
     "info": ` LC to FC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/LC-TO-FC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -242,6 +247,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_LC TO LC": {
     "title": "OpZonik LC TO LC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO LC ",
     "info": `LC to LC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/LC-TO-LC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -302,6 +308,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_LC TO SC": {
     "title": "OpZonik LC TO SC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO SC ",
     "info": `LC to SC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/LC-TO-SC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -362,6 +369,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_LC TO ST": {
     "title": "OpZonik LC TO ST Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO ST ",
     "info": `LC to ST Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/LC-TO-ST.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -422,6 +430,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_LCAPC TO SCAPC": {
     "title": "OpZonik LCAPC TO SCAPC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LCAPC TO SCAPC ",
     "info": `LCAPC to SCAPC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/LCAPC-TO-SCAPC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -482,6 +491,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SC TO SC": {
     "title": "OpZonik SC TO SC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SC TO SC ",
     "info": `SC to SC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/SC-TO-SC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -542,6 +552,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SC TO ST": {
     "title": "OpZonik SC TO ST Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SC TO ST ",
     "info": `SC to ST Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/SC-TO-ST.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -602,6 +613,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SCAPC TO FC": {
     "title": "OpZonik SCAPC TO FC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SCAPC TO FC ",
     "info": `SCAPC to FC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/SCAPC-TO-FC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -662,6 +674,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SCAPC TO SC": {
     "title": "OpZonik SCAPC TO SC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SCAPC TO SC ",
     "info": `SCAPC to SC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/SCAPC-TO-SC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -722,6 +735,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SCAPC TO SCAPC": {
     "title": "OpZonik FCAPC TO SCAPC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FCAPC TO SCAPC ",
     "info": `SCAPC to SCAPC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/SCAPC-TO-SCAPC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -782,6 +796,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SCAPC TO ST": {
     "title": "OpZonik SCAPC TO ST Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SCAPC TO ST ",
     "info": `SCAPC to ST Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/SCAPC-TO-ST.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -842,6 +857,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_ST TO ST": {
     "title": "OpZonik ST TO ST Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable ST TO ST ",
     "info": `ST to ST Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).<br> For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/SingleMode SX/New folder/ST-TO-ST.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -903,6 +919,7 @@ productDesc = {
   "Fiber Optic Patch Cable_SINGLEMODE DUPLEX_ST TO ST": {
     "title": "OpZonik ST TO ST Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable ST TO ST ",
     "info": `ST to ST Single mode Fiber 9/125um tight buffered duplex zip cord OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen). For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Singlemode  DX/New folder/ST-TO-ST.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -964,6 +981,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE DUPLEX_LC TO LC": {
     "title": "OpZonik LC TO LC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO LC ",
     "info": `LC to LC Single mode Fiber 9/125um tight buffered duplex zip cord OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen) .For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Singlemode  DX/New folder/LC-TO-LC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -1023,6 +1041,7 @@ productDesc = {
     "title": "OpZonik SC TO SC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable SC TO SC ",
     "info": `SC to SC Single mode Fiber 9/125um tight buffered duplex zip cord OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen).For any type of customization of length and connectors configuration contact seller.`,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Singlemode  DX/New folder/SC-TO-SC.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1081,6 +1100,7 @@ productDesc = {
   }, "Fiber Optic Patch Cable_SINGLEMODE DUPLEX_FCAPC TO FCAPC": {
     "title": "OpZonik FCAPC TO FCAPC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable FCAPC TO FCAPC ",
     "info": `FCAPC to FCAPC Single mode Fiber 9/125um tight buffered duplex zip cord OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen). For any type of customization of length and connectors configuration contact seller.`,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Singlemode  DX/New folder/FCAPC-TO-FCAPC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -1144,6 +1164,7 @@ productDesc = {
     "title": "OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC",
     "info": `LC to LC Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
+    "mark":"yes",
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-LC.png",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
@@ -1205,6 +1226,7 @@ productDesc = {
     "info": `LC to SC Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-SC.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1264,6 +1286,7 @@ productDesc = {
     "info": `LC to ST Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-ST.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1324,6 +1347,7 @@ productDesc = {
     "info": `SC to SC Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/SC-TO-SC.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1383,6 +1407,7 @@ productDesc = {
     "info": `ST to ST Multimode Fiber OM1 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/ST-TO-ST.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1447,6 +1472,7 @@ productDesc = {
     "info": `LC to LC Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-LC.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1507,6 +1533,7 @@ productDesc = {
     "info": `LC to SC Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-SC.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1566,6 +1593,7 @@ productDesc = {
     "info": `LC to ST Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/LC-TO-ST.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1626,6 +1654,7 @@ productDesc = {
     "info": `SC to SC Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/SC-TO-SC.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -1685,6 +1714,7 @@ productDesc = {
     "info": `ST to ST Multimode Fiber OM2 62.5/125um is the tight buffered zip cord fiber and is designed to meet the demands of Gigabit Ethernet speeds and high speed fiber channel. It also supports 10 Gigabit Ethernet connection up to 33 meters. Cable Outer Diameter - 2.0 mm, and Jacketed LSZH (Low Smoke Zero Halogen).
     For any type of customization of length and connectors configuration contact seller. `,
     "image": "../../public/opzonik_resize/Fiber Optic patch cabel/Multimode OM1/New folder/ST-TO-ST.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -2452,6 +2482,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "title": "OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode 9/125um Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)",
     "info": ``,
     "image": "../../public/opzonik_resize/Adapter Cables/New folder/LC-TO-ST--S.MODE-DX-ADPTER-CABLE.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -2481,6 +2512,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "title": "OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode  9/125 Duplex, LC Male to ST Female Fiber Adapter Cable – 0.3 Meter (1FT)",
     "info": ``,
     "image": "../../public/opzonik_resize/Adapter Cables/New folder/LC-TO-SC-S.MODE-DX-ADAPTER-CABLE.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -2509,6 +2541,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "title": "OpZonik 1FT LC to SC Fiber Optic Adapter Cable Multimode OM1 62.5/125 Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)",
     "info": ``,
     "image": "../../public/opzonik_resize/Adapter Cables/New folder/LC-TO-SC-M.MODE-DX-ADAPTER-CABLE.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -2537,6 +2570,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "title": "OpZonik 1FT LC to ST Fiber Optic Adapter Cable Multimode OM1 62.5/125 Duplex, LC Female to ST Male Fiber Adapter Cable – 0.3 Meter (1 FT)",
     "info": ``,
     "image": "../../public/opzonik_resize/Adapter Cables/New folder/LC-TO-ST-M.MODE-DX-ADAPTER-CABLE.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   <h2>Product Description</h2>
   <div class="box1">
@@ -2569,6 +2603,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "info": ` Armoured fiber optic cable with build-in metal stainless steel tube provides stronger protection of the optical fibers than standards fiber optic cables. The rugged armored cables allow optical fiber to be installed in the most hazardous areas.
   `,
     "image": "../../public/opzonik_resize/Armoured Cable/New folder/LC-TO-SCAPC-ARMOURED-CABLE.png",
+    "mark":"yes",
     "description": `<div class="descrip">
      
       <h2>Product Description</h2>
@@ -2629,6 +2664,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 
  `,
     "image": "../../public/opzonik_resize/Armoured Cable/New folder/SCAPC-TO-SCAPC-ARMOURED-CABLE.png",
+    "mark":"yes",
     "description": `<div class="descrip">
   
   <h2>Product Description</h2>
