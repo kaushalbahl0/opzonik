@@ -2039,7 +2039,7 @@ productDesc = {
 
   
   `,
-    "info": ` <br>
+    "info": ` 
  `,
     "image": "../../public/productImage/rackmount cable/SC Rack Enclosure Cat3/DSC_4347.jpg",
     "description": `<div class="descrip">
@@ -2076,7 +2076,7 @@ productDesc = {
   
   `,
     "info": `
-   <br> <br>
+   
  `,
     "image": "../../public/productImage/rackmount cable/LC Rack Encl Cat3/DSC_4371.jpg",
     "description": `<div class="descrip">

@@ -490,14 +490,14 @@ productList = {
         {
             "image":"../../public/productImage/rackmount cable/LC Rack Encl Cat3/DSC_4364.jpg",
             "imageName":"LC",
-            "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 SC Port",
-            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port SC Singlemode Fiber Optic Patch cable"
+            "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 LC Port",
+            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic Patch cable."
         },
         {
             "image":"../../public/productImage/rackmount cable/SC Rack Enclosure Cat3/DSC_4342.jpg",
             "imageName":"SC",
-            "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 LC Port",
-            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic Patch cable."
+            "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 SC Port",
+            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port SC Singlemode Fiber Optic Patch cable"
         },
        
     ]
