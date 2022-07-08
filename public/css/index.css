@@ -94,8 +94,8 @@ section{
     margin-right: 0px !important;
 }
 .navbar-nav li a{
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     color: black;
 }
 .nav-link {
@@ -764,7 +764,7 @@ color: red;
 }
 .sub_list2:hover,
 .sub_list1:hover{
-    padding-left: 10px !important;
+    padding-left: 5px !important;
     color: red;
 }
 .sub_list1 li:hover a{
