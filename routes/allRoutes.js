@@ -5,13 +5,26 @@ const productImage=require("../productButton");
 const productDetail=require("../productInfo");
 const productlList=require("../productList")
 
+function shuffleArray(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+    
+        // Generate random number
+        var j = Math.floor(Math.random() * (i + 1));
+                    
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+        
+    return array;
+ }
 
 router.get("/home",(req,res)=>{
     
     const listData=data.opzonik;
     const listButton=productDesc.product
-    const productImg=productImage.productimg
-    console.log(productImg)
+    const productImg=shuffleArray(productImage.productimg)
+   
  
     res.render("index",{"data":listData,"button":listButton,"productimage":productImg})
 })
@@ -20,21 +33,21 @@ router.get("/home",(req,res)=>{
 router.get("/contact",(req,res)=>{
     const listData=data.opzonik;
     const listButton=productDesc.product
-    const productImg=productImage.productimg
+    const productImg=shuffleArray(productImage.productimg)
     console.log("kaushal")
     res.render("contact",{"data":listData,"button":listButton,"productimage":productImg})
 })
 router.get("/custom",(req,res)=>{
     const listData=data.opzonik;
     const listButton=productDesc.product
-    const productImg=productImage.productimg
+    const productImg=shuffleArray(productImage.productimg)
     console.log("kaushal")
     res.render("custum",{"data":listData,"button":listButton,"productimage":productImg})
 })
 router.get("/:key",(req,res)=>{
     const listData=data.opzonik;
     const listButton=productDesc.product
-    const productImg=productImage.productimg
+    const productImg=shuffleArray(productImage.productimg)
     const category=req.params.key
     const productL=productlList[category].product
     console.log(productL)
@@ -43,8 +56,8 @@ router.get("/:key",(req,res)=>{
 router.get("/product/:key",(req,res)=>{
     // console.log(req.params.key);
     const listData=data.opzonik
-    const listButton=productDesc.product
-    const productImg=productImage.productimg
+    const listButton=productDesc.product 
+    const productImg=shuffleArray(productImage.productimg)
     const category=req.params.key
     const productD=productDetail[category]
     console.log(category)

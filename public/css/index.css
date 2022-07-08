@@ -13,9 +13,12 @@ h4{
     font-weight: bold;
     font-family:'SF Pro Display', sans-serif;
 }
-p,li,li a{
-    font-size: 16px;
+p{
     font-weight: 500 !important;
+}
+li,li a{
+    font-size: 14px;
+    font-weight: bold !important;
     /* font-family: 'SF Pro Display', sans-serif; */
    
 }

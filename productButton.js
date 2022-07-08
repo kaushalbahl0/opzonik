@@ -306,7 +306,7 @@ productImage=[
         "content":"OpZonik SC Female to SC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler "
     },
     {
-        "image":"../../public/productImage/Adaptar\SC S.MODE DX ADAPTER/SC S.MODE DX ADAPTER.jpg",
+        "image":"../../public/productImage/Adaptar/SC S.MODE DX ADAPTER/SC S.MODE DX ADAPTER.jpg",
         "imageName":"SC",
         "class":"Fiber_Optic_Adapter",
         "content":"OpZonik SC Female to SC Female Singlemode Duplex Fiber Optic Cable Adapter / Coupler"
