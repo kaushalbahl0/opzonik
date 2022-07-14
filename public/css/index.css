@@ -16,11 +16,14 @@ h4{
 p{
     font-weight: 500 !important;
 }
-li,li a{
+li a{
     font-size: 14px;
     font-weight: bold !important;
-    /* font-family: 'SF Pro Display', sans-serif; */
+    font-family: 'SF Pro Display', sans-serif;
    
+}
+.box1 ul li a{
+    font-weight: normal !important;
 }
 
 
@@ -148,6 +151,9 @@ section{
     width: 44%;
     right: 138px;
 
+}
+.categoryList {
+    font-weight: bold !important;
 }
 
 /*  */
