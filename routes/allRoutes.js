@@ -6,6 +6,8 @@ const productDetail=require("../productInfo");
 const productlList=require("../productList")
 
 function shuffleArray(array) {
+
+    console.log()
     for (var i = array.length - 1; i > 0; i--) {
     
         // Generate random number
