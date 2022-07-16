@@ -30,11 +30,12 @@
     object-fit: contain;
 }
 .content_img {
-    height: 29vh;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding-bottom: 1rem;
 }
 .more_btn{
     padding: 10px 30px;

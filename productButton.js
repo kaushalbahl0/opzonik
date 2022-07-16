@@ -345,7 +345,7 @@ productImage=[
     //fiber optics hybrid adapter 
 
     {
-        "image":"../../public/productImage/fiber hybride adapter cable/st-lc_hybrid_adapter.png",
+        "image":"../../public/productImage/fiber hybride adapter cable/st-lc_hybrid_adapter.jpg",
         "imageName":"ST-LC",
         "class":"Fiber_Optic_Hybrid_Adapter",
         "content":"ST-LC HYBRID FIBER OPTIC ADAPTER"
@@ -357,25 +357,25 @@ productImage=[
         "content":"FC-LC HYBRID FIBER OPTIC ADAPTER"
     },
     {
-        "image":"../../public/productImage/fiber hybride adapter cable/fc-st-hybride-adapter.png",
+        "image":"../../public/productImage/fiber hybride adapter cable/fc-st-hybride-adapter.jpg",
         "imageName":"FC-ST",
         "class":"Fiber_Optic_Hybrid_Adapter",
         "content":"FC-ST HYBRID FIBER OPTIC ADAPTER"
     },
     {
-        "image":"../../public/productImage/fiber hybride adapter cable/sc-lc-hybride-adapter.png",
+        "image":"../../public/productImage/fiber hybride adapter cable/sc-lc-hybride-adapter.jpg",
         "imageName":"SC-LC",
         "class":"Fiber_Optic_Hybrid_Adapter",
         "content":"SC-LC HYBRID FIBER OPTIC ADAPTER"
     },
     {
-        "image":"../../public/productImage/fiber hybride adapter cable/sc-st-hybride-adapter.png",
+        "image":"../../public/productImage/fiber hybride adapter cable/sc-st-hybride-adapter.jpg",
         "imageName":"SC-ST",
         "class":"Fiber_Optic_Hybrid_Adapter",
         "content":"SC-ST HYBRID FIBER OPTIC ADAPTER"
     },
     {
-        "image":"../../public/productImage/fiber hybride adapter cable/sc-fc-hybride-adapter.png",
+        "image":"../../public/productImage/fiber hybride adapter cable/sc-fc-hybride-adapter.jpg",
         "imageName":"SC-FC",
         "class":"Fiber_Optic_Hybrid_Adapter",
         "content":"SC-FC HYBRID FIBER OPTIC ADAPTER"
@@ -383,25 +383,25 @@ productImage=[
         //fiber optics attenuators 
 
     {
-        "image":"../../public/productImage/fiber optics attenuators/sc.png",
+        "image":"../../public/productImage/fiber optics attenuators/sc.jpg",
         "imageName":"SC",
         "class":"Fiber_Optic_Attenuators",
         "content":"SC FIBER OPTIC ATTENUATORS"
     },  
     {
-        "image":"../../public/productImage/fiber optics attenuators/lc.png",
+        "image":"../../public/productImage/fiber optics attenuators/lc.jpg",
         "imageName":"LC",
         "class":"Fiber_Optic_Attenuators",
         "content":"LC FIBER OPTIC ATTENUATORS"
     },
     {
-        "image":"../../public/productImage/fiber optics attenuators/st.png",
+        "image":"../../public/productImage/fiber optics attenuators/st.jpg",
         "imageName":"ST",
         "class":"Fiber_Optic_Attenuators",
         "content":"ST FIBER OPTIC ATTENUATORS"
     },
     {
-        "image":"../../public/productImage/fiber optics attenuators/e2000.png",
+        "image":"../../public/productImage/fiber optics attenuators/e2000.jpg",
         "imageName":"E2000",
         "class":"Fiber_Optic_Attenuators",
         "content":"E2000 FIBER OPTIC ATTENUATOR"
@@ -410,7 +410,7 @@ productImage=[
 
     //distributation cable
     {
-        "image":"../../public/productImage/distribution cable/distribution.png",
+        "image":"../../public/productImage/distribution cable/distribution.jpg",
         "imageName":"DISTRIBUTION",
         "class":"Distribution_Cable",
         "content":"DISTRIBUTION CABLE"
@@ -425,7 +425,7 @@ productImage=[
         "content":"SC LOOPBACK ADAPTER TEST CABLE"
     },
     {
-        "image":"../../public/productImage/loopback adapter test cable/lc.png",
+        "image":"../../public/productImage/loopback adapter test cable/lc.jpg",
         "imageName":"LC",
         "class":"Loopback_Adapter_Test_Cable",
         "content":"LC LOOPBACK ADAPTER TEST CABLE"
@@ -437,7 +437,7 @@ productImage=[
         "content":"FC LOOPBACK ADAPTER TEST CABLE"
     },
     {
-        "image":"../../public/productImage/loopback adapter test cable/mtrj.png",
+        "image":"../../public/productImage/loopback adapter test cable/mtrj.jpg",
         "imageName":"MTRJ",
         "class":"Loopback_Adapter_Test_Cable",
         "content":"MTRJ LOOPBACK ADAPTER TEST CABLE"
@@ -449,7 +449,7 @@ productImage=[
         "content":"MU LOOPBACK ADAPTER TEST CABLE"
     },
     {
-        "image":"../../public/productImage/loopback adapter test cable/4-mno.png",
+        "image":"../../public/productImage/loopback adapter test cable/4-mno.jpg",
         "imageName":"4 FIBER MPO",
         "class":"Loopback_Adapter_Test_Cable",
         "content":"4 FIBER MPO LOOP BACK"

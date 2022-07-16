@@ -6,7 +6,8 @@ productList = {
             "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/LC TO SC.jpg",
             "imageName":"LC TO SC",
             "class":"Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_LC TO SC",
-            "content":"OpZonik LC TO SC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO SC"
+            "content":"OpZonik LC TO SC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO SC",
+            "productName":"Fiber Optic Patch Cable Singlemode Simplex"
         },
         {
             "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/LC TO LC.jpg",
@@ -129,7 +130,8 @@ productList = {
         "image":"../../public/productImage/Fiber Optic patch cabel/Singlemode  DX/LC TO LC.jpg",
         "imageName":"LC TO LC",
         "class":"Fiber Optic Patch Cable_SINGLEMODE DUPLEX_LC TO LC",
-        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO LC"
+        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO LC",
+        "productName":"Fiber Optic Patch Cable Singlemode Duplex"
     },
     {
         "image":"../../public/productImage/Fiber Optic patch cabel/Singlemode  DX/SC TO SC.jpg",
@@ -157,7 +159,8 @@ productList = {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/LC TO LC.jpg",
         "imageName":"LC TO LC",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM1_LC TO LC",
-        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC"
+        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM1 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC",
+        "productName":"Fiber Optic Patch Cable Multimode OM1"
     },
     {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/LC TO SC.jpg",
@@ -191,7 +194,8 @@ productList = {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/LC TO LC.jpg",
         "imageName":"LC TO LC",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM2_LC TO LC",
-        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC;"
+        "content":"OpZonik LC TO LC Fiber Optic Patch Cable Multimode OM2 Duplex 62.5/125µm Optical Patch Cord 1G/10G Fiber Optic Cable LC TO LC;",
+        "productName":"Fiber Optic Patch Cable multimode OM2"
     },
     {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM1/LC TO SC.jpg",
@@ -225,7 +229,8 @@ productList = {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM3/LC TO LC.jpg",
         "imageName":"LC TO LC",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM3_LC TO LC",
-        "content":"OpZonik LC to LC Fiber Optic Patch Cable Multimode OM3 Duplex 50/125µm, Optical Patch Cord 1G/10G/40G Fiber Optic Cable LC-LC   "
+        "content":"OpZonik LC to LC Fiber Optic Patch Cable Multimode OM3 Duplex 50/125µm, Optical Patch Cord 1G/10G/40G Fiber Optic Cable LC-LC   ",
+        "productName":"Fiber Optic Patch Cable multimode OM3"
     },{
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM3/LC TO SC.jpg",
         "imageName":"LC TO SC",
@@ -245,7 +250,8 @@ productList = {
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM4/LC TO LC.jpg",
         "imageName":"LC TO LC",
         "class":"Fiber Optic Patch Cable_MULTIMODE OM4_LC TO LC",
-        "content":"OpZonik LC to LC Fiber Optic Patch Cable Multimode OM4 Duplex 50/125µm, Optical Patch Cord 100G/40G Fiber Optic Cable LC-LC"
+        "content":"OpZonik LC to LC Fiber Optic Patch Cable Multimode OM4 Duplex 50/125µm, Optical Patch Cord 100G/40G Fiber Optic Cable LC-LC",
+        "productName":"Fiber Optic Patch Cable multimode OM4"
     },{
         "image":"../../public/productImage/Fiber Optic patch cabel/Multimode OM4/LC TO SC.jpg",
         "imageName":"LC TO SC",
@@ -267,7 +273,8 @@ productList = {
             "image":"../../public/productImage/Armoured_Cable/LC TO SCAPC ARMOURED CABLE.jpg",
             "imageName":"LC TO SCAPC",
             "class":"Fiber Optic Patch Cable Armoured_ARMOURED CABLE_SCAPC TO LC",
-            "content":"OpZonik 1M SCAPC to LC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-LC"
+            "content":"OpZonik 1M SCAPC to LC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-LC",
+            "productName":"Fiber Optic Patch Cable Armoured cable"
         },
         {
             "image":"../../public/productImage/Armoured_Cable/SCAPC TO SCAPC ARMOURED CABLE.jpg",
@@ -284,7 +291,8 @@ productList = {
             "image":"../../public/productImage/Adapter_Cables/LC TO SC S.MODE DX ADAPTER CABLE.jpg",
             "imageName":"LC TO SC",
             "class":"Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO SC",
-            "content":"OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode 9/125µm Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)"
+            "content":"OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode 9/125µm Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)",
+            "productName":"Fiber Optic Adapter Cable"
         },
         {
             "image":"../../public/productImage/Adapter_Cables/LC TO ST  S.MODE DX ADPTER CABLE.jpg",
@@ -314,53 +322,54 @@ productList = {
             "image":"../../public/productImage/New Adapter/FC TO FC SX S.MODE.jpg",
             "imageName":"FC TO FC",
             "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_FC TO FC",
-            "content":"OpZonik FC Female to FC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler"
+            "content":"OpZonik FC Female to FC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler",
+            "productName":"Fiber Optic Adapter"
         },
         {
-            "image":"../../public/opzonik_resize/adaptor_new/singlemode simplex/ST-TO-ST-SX-S.MODE.png",
+            "image":"../../public/productImage/New Adapter/ST TO ST SX S.MODE.jpg",
             "imageName":"ST TO ST",
             "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_ST TO ST",
             "content":"OpZonik ST Female to ST Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler"
         },
         {
-            "image":"../../public/opzonik_resize/adaptor_new/singlemode simplex/SC-S.MODE-SX-ADAPTER.png",
+            "image":"../../public/productImage/New Adapter/SC S.MODE SX ADAPTER.jpg",
             "imageName":"SC TO SC",
             "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_SC TO SC",
             "content":"OpZonik SC Female to SC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler "
         },
         {
-            "image":"../../public/opzonik_resize/adaptor_new/singlemode simplex/SCAPC-S.MODE-SX-ADAPTER.png",
+            "image":"../../public/productImage/New Adapter/SCAPC S.MODE SX ADAPTER.jpg",
             "imageName":"SC TO SCAPC",
             "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_SC TO SCAPC",
             "content":"OpZonik SC Female to SCAPC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler "
         },
         {
-            "image":"../../public/opzonik_resize/adaptor_new/singlemode duplex/SC-S.MODE-DX-ADAPTER.png",
+            "image":"../../public/productImage/New Adapter/SC S.MODE DX ADAPTER.jpg",
             "imageName":"SC TO SC",
             "class":"Fiber Optic Adapter_SINGLEMODE DUPLEX_SC TO SC",
             "content":"OpZonik SC Female to SC Female Singlemode Duplex Fiber Optic Cable Adapter / Coupler"
         },
         {
-            "image":"../../public/opzonik_resize/adaptor_new/singlemode duplex/LC-S.MODE-DX-ADAPTER.png",
+            "image":"../../public/productImage/New Adapter/LC S.MODE DX ADAPTER.jpg",
             "imageName":"LC TO LC",
             "class":"Fiber Optic Adapter_SINGLEMODE DUPLEX_LC TO LC",
             "content":"OpZonik LC Female to LC Female APC Singlemode Duplex Fiber Optic Cable Adapter Coupler"
         },
         {
-            "image":"../../public/opzonik_resize/adaptor_new/multimode simplex/SC-TO-SC-SX-M.MODE.png",
+            "image":"../../public/productImage/New Adapter/SC TO SC SX M.MODE.jpg",
             "imageName":"SC TO SC",
             "class":"Fiber Optic Adapter_MULTIMODE SIMPLEX_SC TO SC",
             "content":"OpZonik SC Female to SC Female Multimode simplex Fiber Optic Cable Adapter / Coupler"
         },
       
         {
-            "image":"../../public/opzonik_resize/adaptor_new/multimode duplex/SC-M.MODE-DX-ADAPTER.png",
+            "image":"../../public/productImage/New Adapter/SC M.MODE DX ADAPTER.jpg",
             "imageName":"SC TO SC",
             "class":"Fiber Optic Adapter_MULTIMODE DUPLEX_SC TO SC",
             "content":"OpZonik SC Female to SC Female Multimode Duplex Fiber Optic Cable Adapter / Coupler "
         },
         {
-            "image":"../../public/opzonik_resize/adaptor_new/multimode duplex/LC-TO-LC-DX-M.MODE.png",
+            "image":"../../public/productImage/New Adapter/LC TO LC DX M.MODE.jpg",
             "imageName":"LC TO LC",
             "class":"Fiber Optic Adapter_MULTIMODE DUPLEX_LC TO LC",
             "content":"OpZonik LC Female to LC Female Multimode Simplex Fiber Optic Cable Adapter / Coupler "
@@ -376,18 +385,19 @@ productList = {
             "image":"../../public/productImage/fiber hybride adapter cable/fc-ls-hybride-adapter.jpg",
             "imageName":"FC-LC",
             "class":"Fiber Optic Hybrid Adapter_SINGLEMODE SIMPLEX_FC-LC",
-            "content":"FC-LC HYBRID FIBER OPTIC ADAPTER"
+            "content":"FC-LC HYBRID FIBER OPTIC ADAPTER",
+            "productName":"Fiber Optic Hybrid Adapter"
         },
        
         {
-            "image":"../../public/productImage/fiber hybride adapter cable/sc-lc-hybride-adapter.png",
+            "image":"../../public/productImage/fiber hybride adapter cable/sc-lc-hybride-adapter.jpg",
             "imageName":"SC-LC",
             "class":"Fiber Optic Hybrid Adapter_SINGLEMODE SIMPLEX_SC-LC",
             "content":"SC-LC HYBRID FIBER OPTIC ADAPTER"
         },
        
         {
-            "image":"../../public/productImage/fiber hybride adapter cable/sc-fc-hybride-adapter.png",
+            "image":"../../public/productImage/fiber hybride adapter cable/sc-fc-hybride-adapter.jpg",
             "imageName":"SC-FC",
             "class":"Fiber Optic Hybrid Adapter_SINGLEMODE SIMPLEX_SC-FC",
             "content":"SC-FC HYBRID FIBER OPTIC ADAPTER"
@@ -400,13 +410,15 @@ productList = {
     "product":[
         
     {
-        "image":"../../public/productImage/fiber optics attenuators/sc.png",
+        "image":"../../public/productImage/fiber optics attenuators/sc.jpg",
         "imageName":"SC",
         "class":"Fiber Optic Attenuators _SINGLEMODE&MULTIMODE_SC",
-        "content":"SC FIBER OPTIC ATTENUATORS"
+        "content":"SC FIBER OPTIC ATTENUATORS",
+        "productName":"Fiber Optic Attenuators"
+            
     },  
     {
-        "image":"../../public/productImage/fiber optics attenuators/lc.png",
+        "image":"../../public/productImage/fiber optics attenuators/lc.jpg",
         "imageName":"LC",
         "class":"Fiber Optic Attenuators _SINGLEMODE&MULTIMODE_LC",
         "content":"LC FIBER OPTIC ATTENUATORS"
@@ -422,7 +434,8 @@ productList = {
             "image":"../../public/productImage/Pigtail/LC FIBER OPTIC PIGTAIL S.MODE 12 CORE.jpg",
             "imageName":"LC",
             "class":"Multifiber Pigtails_SINGLEMODE Multifiber Pigtail_LC 12 CORE",
-            "content":"OpZonik 1.5M 12 Strand Singlemode 9/125um LC Fiber optic pigtails, 12 Color-Coded LC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
+            "content":"OpZonik 1.5M 12 Strand Singlemode 9/125um LC Fiber optic pigtails, 12 Color-Coded LC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing",
+            "productName":"Multifiber Pigtail"
         }, 
         {
             "image":"../../public/productImage/Pigtail/SC FIBER OPTIC PIGTAIL S.MODE 12 CORE.jpg",
@@ -431,13 +444,13 @@ productList = {
             "content":"OpZonik 1.5M 12 Strand Singlemode 9/125um SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
         },
         {
-            "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.png",
+            "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.jpg",
             "imageName":"OM1",
             "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM1_SC",
             "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
         },
         {
-            "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.png",
+            "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.jpg",
             "imageName":"OM2",
             "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM2_ST",
             "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
@@ -462,10 +475,11 @@ productList = {
         //     "content":"12 FIBER INDOOR BREAKOUT CABLE"
         // },
         {
-            "image":"../../public/productImage/breakout cable/48breakout.png",
+            "image":"../../public/productImage/breakout cable/48breakout.jpg",
             "imageName":"48 BREAKOUT",
             "class":"Breakout Cable_SINGLEMODE_48 FIBER",
-            "content":"48 FIBER INDOOR BREAKOUT CABLE"
+            "content":"48 FIBER INDOOR BREAKOUT CABLE",
+            "productName":"Breakout Cable"
         },
        
     ]
@@ -475,10 +489,11 @@ productList = {
 "Distribution Cable_SINGLEMODE":{
     "product":[
         {
-            "image":"../../public/productImage/distribution cable/distribution.png",
+            "image":"../../public/productImage/distribution cable/distribution.jpg",
             "imageName":"DISTRIBUTION",
             "class":"Distribution Cable_SINGLEMODE_DISTRIBUTION CABLE",
-            "content":"DISTRIBUTION CABLE"
+            "content":"DISTRIBUTION CABLE",
+            "productName":"Distribution cable"
         },
        
     ]
@@ -488,13 +503,14 @@ productList = {
 "Fiber Optic Rackmount Enclosure_SINGLEMODE":{
     "product":[
         {
-            "image":"../../public/productImage/rackmount cable/LC Rack Encl Cat3/DSC_4364.jpg",
+            "image":"../../public/productImage/rackmount cable/LC Rack Encl Cat3/1.jpg",
             "imageName":"LC",
             "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 LC Port",
-            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic Patch cable."
+            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic Patch cable.",
+            "productName":"Fiber Optic Rackmount"
         },
         {
-            "image":"../../public/productImage/rackmount cable/SC Rack Enclosure Cat3/DSC_4342.jpg",
+            "image":"../../public/productImage/rackmount cable/SC Rack Enclosure Cat3/2.jpg",
             "imageName":"SC",
             "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 SC Port",
             "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port SC Singlemode Fiber Optic Patch cable"
@@ -509,10 +525,11 @@ productList = {
             "image":"../../public/productImage/loopback adapter test cable/sc.jpg",
             "imageName":"SC",
             "class":"Loopback Adapter Test Cable_SINGLEMODE_SC",
-            "content":"SC LOOPBACK ADAPTER TEST CABLE"
+            "content":"SC LOOPBACK ADAPTER TEST CABLE",
+            "productName":"Loopback adapter test cable"
         },
         {
-            "image":"../../public/productImage/loopback adapter test cable/lc.png",
+            "image":"../../public/productImage/loopback adapter test cable/lc.jpg",
             "imageName":"LC",
             "class":"Loopback Adapter Test Cable_SINGLEMODE_LC",
             "content":"LC LOOPBACK ADAPTER TEST CABLE"
