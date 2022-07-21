@@ -2261,21 +2261,21 @@ productDesc = {
 
   },
   "Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM1_SC": {
-    "title": `OpZonik 1.5M 12 Strand Multimode OM1 62.5/125µm ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing `,
+    "title": `OpZonik 1.5M 12 Strand Multimode OM1 62.5/125µm SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing `,
     "info": `For Any Customization of length and connector configuration ;
   `,
-    "image": "../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.jpg",
+    "image": "../../public/productImage/Pigtail/om1_new.jpg",
     "mark":"yes",
     "description": `<div class="descrip">
   <h2>Description</h2>
   <div class="box1">
   
-  <p>1.5M ST Fiber Optic Pigtails are great for fusion splicing inside of a fiber optic enclosure. Each strand is terminated on one end and the other end is left blunt so that so it can be easily spliced to the trunk, backbone or outside plant cable and the other end is terminated with 12 ST Connectors which connect to the end equipment, like an adapter panel or optical transreceiver. It consists of a connector and a special length, connector could be SC, LC, FC, ST etc.</p>
+  <p>1.5M SC Fiber Optic Pigtails are great for fusion splicing inside of a fiber optic enclosure. Each strand is terminated on one end and the other end is left blunt so that so it can be easily spliced to the trunk, backbone or outside plant cable and the other end is terminated with 12 SC Connectors which connect to the end equipment, like an adapter panel or optical transreceiver. It consists of a connector and a special length, connector could be SC, LC, FC, ST etc.</p>
 </div>
 <div class="box1">
 <h4> Parameters</h4>
 <ul>
-  <li> Fiber Type : Single-Mode, Connector (s): ST Connector, Cable Length : 1.5M, Minimum Bending Radius: 3.8cm.</li>
+  <li> Fiber Type : Single-Mode, Connector (s): SC Connector, Cable Length : 1.5M, Minimum Bending Radius: 3.8cm.</li>
   <li> Ferrule material : ceramic; Working Wavelength: 850-1300nm</li>
   <li> Insertion loss : ≤0.3.</li>
   <li>Operating temperature : -40 ~+80 ,<br> Storage temperature: -40 ~+85.</li>

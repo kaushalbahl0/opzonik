@@ -693,7 +693,7 @@ color: red;
 
 }
 .nav{
-    background-color: green;
+    background-color: #00e676;
     width: 40px;
     display: flex;
     align-items: center;
@@ -956,4 +956,5 @@ background-color: grey;
 .productName{
     font-size: 31px;
     font-weight: 700;
+    text-transform: capitalize;
 }

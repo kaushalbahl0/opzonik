@@ -274,7 +274,7 @@ productList = {
             "imageName":"LC TO SCAPC",
             "class":"Fiber Optic Patch Cable Armoured_ARMOURED CABLE_SCAPC TO LC",
             "content":"OpZonik 1M SCAPC to LC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-LC",
-            "productName":"Fiber Optic Patch Cable Armoured cable"
+            "productName":"Fiber Optic Patch Cable Armoured"
         },
         {
             "image":"../../public/productImage/Armoured_Cable/SCAPC TO SCAPC ARMOURED CABLE.jpg",
@@ -444,10 +444,10 @@ productList = {
             "content":"OpZonik 1.5M 12 Strand Singlemode 9/125um SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
         },
         {
-            "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.jpg",
+            "image":"../../public/productImage/Pigtail/om1_new.jpg",
             "imageName":"OM1",
             "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM1_SC",
-            "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
+            "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um SC Fiber optic pigtails, 12 Color-Coded SC Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
         },
         {
             "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.jpg",
@@ -507,7 +507,7 @@ productList = {
             "imageName":"LC",
             "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 LC Port",
             "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic Patch cable.",
-            "productName":"Fiber Optic Rackmount"
+            "productName":"Fiber Optic Rackmount Enclosure"
         },
         {
             "image":"../../public/productImage/rackmount cable/SC Rack Enclosure Cat3/2.jpg",
