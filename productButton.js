@@ -455,14 +455,14 @@ productImage=[
         "image":"../../public/productImage/rackmount cable/LC Rack Encl Cat3/1.jpg",
         "imageName":"LC",
         "class":"Fiber_Optic_Rackmount_Enclosure",
-        "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic Patch cable.",
+        "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic panel.",
         "productName":"Fiber Optic Rackmount Enclosure"
     },
     {
         "image":"../../public/productImage/rackmount cable/SC Rack Enclosure Cat3/2.jpg",
         "imageName":"SC",
         "class":"Fiber_Optic_Rackmount_Enclosure",
-        "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port SC Singlemode Fiber Optic Patch cable"
+        "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port SC Singlemode Fiber Optic panel"
     },
 
     //loopback adaptor test cable

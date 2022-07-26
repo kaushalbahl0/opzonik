@@ -527,23 +527,23 @@ OpzonikSchema=[{
 //     }
 // ]
 },
-{
-    "categoryName":"Distribution Cable",
-    "newCategory":"Distribution Cable_SINGLEMODE",
-//     "subCategories":[
-//     {
-//         "subCategoryName":"SINGLEMODE",
-//         "categoryName":"Distribution Cable",
-//         "products":[
-//             {"productName":"DISTRIBUTION CABLE",
-//             "categoryName":"Distribution Cable",
-//             "subCategoryName":"SINGLEMODE",
-//         },
+// {
+//     "categoryName":"Distribution Cable",
+//     "newCategory":"Distribution Cable_SINGLEMODE",
+// //     "subCategories":[
+// //     {
+// //         "subCategoryName":"SINGLEMODE",
+// //         "categoryName":"Distribution Cable",
+// //         "products":[
+// //             {"productName":"DISTRIBUTION CABLE",
+// //             "categoryName":"Distribution Cable",
+// //             "subCategoryName":"SINGLEMODE",
+// //         },
       
-//     ]
-//     },
-// ]
-},
+// //     ]
+// //     },
+// // ]
+// },
 {
     "categoryName":"Fiber Optic Rackmount Enclosure",
     "newCategory":"Fiber Optic Rackmount Enclosure_SINGLEMODE",

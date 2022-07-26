@@ -678,6 +678,8 @@ color: red;
 }
 .new_section{
     background-color: #F3F3F3;
+    padding-top: 40px !important;
+    padding-bottom: 80px !important;
 }
 
 #client{
@@ -835,7 +837,13 @@ background-color: grey;
 #s_sub{
     color: white;
 }
+.certified img{
+    width: 100%;
+}
 
+#videoTag iframe{
+    width: 100% !important;
+}
 
 
 

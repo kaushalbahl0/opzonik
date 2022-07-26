@@ -486,18 +486,18 @@ productList = {
   },
 
 //   DISTRIBUTION CABLE
-"Distribution Cable_SINGLEMODE":{
-    "product":[
-        {
-            "image":"../../public/productImage/distribution cable/distribution.jpg",
-            "imageName":"DISTRIBUTION",
-            "class":"Distribution Cable_SINGLEMODE_DISTRIBUTION CABLE",
-            "content":"DISTRIBUTION CABLE",
-            "productName":"Distribution cable"
-        },
+// "Distribution Cable_SINGLEMODE":{
+//     "product":[
+//         {
+//             "image":"../../public/productImage/distribution cable/distribution.jpg",
+//             "imageName":"DISTRIBUTION",
+//             "class":"Distribution Cable_SINGLEMODE_DISTRIBUTION CABLE",
+//             "content":"DISTRIBUTION CABLE",
+//             "productName":"Distribution cable"
+//         },
        
-    ]
-  },
+//     ]
+//   },
 
 //   RACKMOUNT ENCLAVE
 "Fiber Optic Rackmount Enclosure_SINGLEMODE":{
