@@ -2611,7 +2611,7 @@ productDesc = {
 
 </div>`
   }, "Fiber Optic Adapter_SINGLEMODE SIMPLEX_SC TO SCAPC": {
-    "title": "OpZonik SC Female to SC Female APC Singlemode Simplex Fiber Optic Cable Adapter Coupler",
+    "title": "OpZonik SCAPC Female to SCAPC Female APC Singlemode Simplex Fiber Optic Cable Adapter Coupler",
     "info": `
   SCAPC compatible single mode adapters are comprised of a polymer outer body and inner assembly fitted with a precision alignment mechanism.
   

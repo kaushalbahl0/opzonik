@@ -339,9 +339,9 @@ productList = {
         },
         {
             "image":"../../public/productImage/New Adapter/SCAPC S.MODE SX ADAPTER.jpg",
-            "imageName":"SC TO SCAPC",
+            "imageName":"SCAPC TO SCAPC",
             "class":"Fiber Optic Adapter_SINGLEMODE SIMPLEX_SC TO SCAPC",
-            "content":"OpZonik SC Female to SCAPC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler "
+            "content":"OpZonik SCAPC Female to SCAPC Female Singlemode Simplex Fiber Optic Cable Adapter / Coupler "
         },
         {
             "image":"../../public/productImage/New Adapter/SC S.MODE DX ADAPTER.jpg",
@@ -506,14 +506,14 @@ productList = {
             "image":"../../public/productImage/rackmount cable/LC Rack Encl Cat3/1.jpg",
             "imageName":"LC",
             "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 LC Port",
-            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic Patch cable.",
+            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port LC Duplex Singlemode Fiber Optic Patch panel.",
             "productName":"Fiber Optic Rackmount Enclosure"
         },
         {
             "image":"../../public/productImage/rackmount cable/SC Rack Enclosure Cat3/2.jpg",
             "imageName":"SC",
             "class":"Fiber Optic Rackmount Enclosure_SINGLEMODE_24 SC Port",
-            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port SC Singlemode Fiber Optic Patch cable"
+            "content":"OpZonik 1U Fiber Optic Rackmount Enclosure, 24 Port SC Singlemode Fiber Optic Patch panel"
         },
        
     ]
