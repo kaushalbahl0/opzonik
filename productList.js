@@ -36,9 +36,9 @@ productList = {
              },
              {
                 "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/SCAPC TO SCAPC.jpg",
-                "imageName":"FCAPC TO SCAPC",
+                "imageName":"SCAPC TO SCAPC",
                 "class":"Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SCAPC TO SCAPC",
-                "content":"OpZonik FCAPC TO SCAPC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FCAPC TO SCAPC"
+                "content":"OpZonik SCAPC TO SCAPC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SCAPC TO SCAPC"
             },
             {
                 "image":"../../public/productImage/Fiber Optic patch cabel/SingleMode SX/SCAPC TO SC.jpg",
@@ -372,7 +372,7 @@ productList = {
             "image":"../../public/productImage/New Adapter/LC TO LC DX M.MODE.jpg",
             "imageName":"LC TO LC",
             "class":"Fiber Optic Adapter_MULTIMODE DUPLEX_LC TO LC",
-            "content":"OpZonik LC Female to LC Female Multimode Simplex Fiber Optic Cable Adapter / Coupler "
+            "content":"OpZonik LC Female to LC Female Multimode Duplex Fiber Optic Cable Adapter / Coupler "
         },
     ]
   },

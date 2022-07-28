@@ -733,7 +733,7 @@ productDesc = {
 
 </div>`
   }, "Fiber Optic Patch Cable_SINGLEMODE SIMPLEX_SCAPC TO SCAPC": {
-    "title": "OpZonik FCAPC TO SCAPC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable FCAPC TO SCAPC ",
+    "title": "OpZonik SCAPC TO SCAPC Fiber Optic Patch Cable Singlemode Simplex Optical Patch Cord 9/125µm Fiber Optic Cable SCAPC TO SCAPC ",
     "info": `SCAPC to SCAPC Single mode Fiber 9/125um OS1 confirms to ITU-T G.652D standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen). For any type of customization of length and connectors configuration :`,
     "mark":"yes",
     "image": "../../public/productImage/Fiber Optic patch cabel/SingleMode SX/SCAPC TO SCAPC.jpg",
