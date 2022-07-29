@@ -31,6 +31,10 @@ router.get("/home",(req,res)=>{
     res.render("index",{"data":listData,"button":listButton,"productimage":productImg})
 })
 
+router.get("/blog",(req,res)=>{
+    res.render("blog")
+})
+
 
 router.get("/contact",(req,res)=>{
     const listData=data.opzonik;
