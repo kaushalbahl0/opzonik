@@ -273,14 +273,14 @@ productList = {
             "image":"../../public/productImage/Armoured_Cable/LC TO SCAPC ARMOURED CABLE.jpg",
             "imageName":"LC TO SCAPC",
             "class":"Fiber Optic Patch Cable Armoured_ARMOURED CABLE_SCAPC TO LC",
-            "content":"OpZonik 1M SCAPC to LC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-LC",
+            "content":"OpZonik LC TO SCAPC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable LC TO SCAPC",
             "productName":"Fiber Optic Patch Cable Armoured"
         },
         {
             "image":"../../public/productImage/Armoured_Cable/SCAPC TO SCAPC ARMOURED CABLE.jpg",
             "imageName":"SCAPC TO SCAPC",
             "class":"Fiber Optic Patch Cable Armoured_ARMOURED CABLE_SCAPC TO SCAPC",
-            "content":"OpZonik 1M SCAPC to SCAPC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-SCAPC"
+            "content":"OpZonik  SCAPC to SCAPC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-SCAPC"
         },
     ]
   },

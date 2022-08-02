@@ -744,7 +744,7 @@ productDesc = {
   <ul>
     <li>Single Mode Simplex Fiber optic patch  Cable.</li>
   
-    <li>Connector: FCAPC TO SCAPC</li>
+    <li>Connector: SCAPC TO SCAPC</li>
     <li>Ferrule Material: Zirconia Ceramic</li>
    
   </ul>
@@ -2984,7 +2984,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 
 // ARMOURD CABLE 
   "Fiber Optic Patch Cable Armoured_ARMOURED CABLE_SCAPC TO LC": {
-    "title": "OpZonik 1M SCAPC to LC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-LC",
+    "title": "OpZonik LC TO SCAPC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable LC TO SCAPC",
     "info": ` Armoured fiber optic cable with build-in metal stainless steel tube provides stronger protection of the optical fibers than standards fiber optic cables. The rugged armored cables allow optical fiber to be installed in the most hazardous areas.
     For any type of customization of length and connectors configuration :
   `,
@@ -2993,11 +2993,11 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
     "description": `<div class="descrip">
      
       <h2>Product Description</h2>
-      <p> SCAPC to LC Armoured Singlemode Fiber 9/125um OS2 confirms to ITU-T G.657A2 standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen)</p>
+      <p>LC TO SCAPC Armoured Singlemode Fiber 9/125um OS2 confirms to ITU-T G.657A2 standards with Outer Diameter - 3.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen)</p>
       <div class="box1">
       <ul>
         <li>Single Mode Simplex Fiber optic patch  Cable.</li>
-        <li>Connector: SCAPC TO LC </li>
+        <li>Connector:LC TO SCAPC </li>
       </ul>
     </div>
     <div class="box1">
@@ -3045,7 +3045,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 
 </div>`
   }, "Fiber Optic Patch Cable Armoured_ARMOURED CABLE_SCAPC TO SCAPC": {
-    "title": "OpZonik 1M SCAPC to SCAPC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-SCAPC",
+    "title": "OpZonik  SCAPC to SCAPC Armoured Fiber Optic Patch Cable Single Mode Simplex Optical Patch Cord 9/125µm Armoured Fiber Optic Cable SCAPC-SCAPC",
     "info": `Armoured fiber optic cable with build-in metal stainless steel tube provides stronger protection of the optical fibers than standards fiber optic cables. The rugged armored cables allow optical fiber to be installed in the most hazardous areas.
     For any type of customization of length and connectors configuration : 
 

@@ -32,7 +32,10 @@ router.get("/home",(req,res)=>{
 })
 
 router.get("/blog",(req,res)=>{
-    res.render("blog")
+    const listData=data.opzonik;
+    const listButton=productDesc.product
+    const productImg=shuffleArray(productImage.productimg)
+    res.render("blog",{"data":listData,"button":listButton,"productimage":productImg})
 })
 
 
