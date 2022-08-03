@@ -1158,6 +1158,130 @@ productDesc = {
 </div>`
   
 }, 
+"Fiber Optic Patch Cable_SINGLEMODE DUPLEX_LC TO SC": {
+  "title": "OpZonik LC TO SC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO SC ",
+  "info": `LC TO SC Single mode Fiber 9/125um tight buffered duplex zip cord OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen). For any type of customization of length and connectors configuration :`,
+  "mark":"yes",
+  "image": "../../public/productImage/Fiber Optic patch cabel/SingleMode  DX/LC TO SC.jpg",
+  "description": `<div class="descrip">
+<h2>Product Description</h2>
+<div class="box1">
+
+<ul>
+  <li>Single Mode Duplex Fiber optic patch  Cable.</li>
+  <li>Connector: LC TO SC</li>
+  <li>Ferrule Material: Zirconia Ceramic</li>
+</ul>
+</div>
+<div class="box1">
+<h4> Optical Properties</h4>
+<ul>
+<li> Insertion Loss SM (1310 & 1550nm) <=0.30dB (Max) & <=0.20dB (Typical).</li>
+<li>Return Loss SM (1310 & 1550nm) >=0.50dB (Min), >=0.55dB (Typical), >=0.65dB (APC)</li>
+</ul>
+</div>
+<div class="box1">
+  <h4>Physical & Environmental Properties</h4>
+  <ul>
+  <li>Repeatability: < 0.10dB  </li>
+  <li>Storage temperature: -25°C to +70°C </li>
+  <li>Operating Temperature: -20°C to +70°C </li>
+  </ul>
+</div>
+
+<div class="box1">
+  <h4> Standards & Compliance</h4>
+  <ul>
+    <li> ISO 9001 & RoHS</li>
+    
+  </ul>
+</div>
+<div class="box1">
+  <h4> Packing & Shipping </h4>
+  <ul>
+    <li>The package will be packed according to standard export requirements, customer satisfaction is our target.</li>
+    <li>Inner packing: 1pc in a plastic bag.</li>
+    <li> Outer packing: the carton will be packed with Bubble Sheet, well protect carton from dust and wet. </li>
+    <li>The transportation: By Air, By sea, By DHL , Fedex TNT ,UPS ...</li>
+  </ul>
+</div>
+<div class="box1">
+  <h4> Applications</h4>
+  <ul>
+  <li> Data center & Computer networking</li>
+  <li> Telecommunication & FTTH, FTTB & FTTX.</li>
+  <li> CATV Systems, Local area networks (LAN), Wide area networks (WAN)</li>
+  <li> Fiber optic testing equipment & sensors.</li>
+  <li> Passive optical network & fiber communication system.</li>
+  </ul>
+</div>
+
+</div>`
+
+}, 
+
+"Fiber Optic Patch Cable_SINGLEMODE DUPLEX_LCAPC TO LC": {
+  "title": "OpZonik LCAPC TO LC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable LCAPC TO LC ",
+  "info": `LCAPC TO LC Single mode Fiber 9/125um tight buffered duplex zip cord OS1 confirms to ITU-T G.652D standards with Outer Diameter - 2.0 mm and Outer Jacketed LSZH (Low Smoke Zero Halogen). For any type of customization of length and connectors configuration :`,
+  "mark":"yes",
+  "image": "../../public/productImage/Fiber Optic patch cabel/SingleMode  DX/LCAPC TO LC.jpg",
+  "description": `<div class="descrip">
+<h2>Product Description</h2>
+<div class="box1">
+
+<ul>
+  <li>Single Mode Duplex Fiber optic patch  Cable.</li>
+  <li>Connector: LCAPC TO LC</li>
+  <li>Ferrule Material: Zirconia Ceramic</li>
+</ul>
+</div>
+<div class="box1">
+<h4> Optical Properties</h4>
+<ul>
+<li> Insertion Loss SM (1310 & 1550nm) <=0.30dB (Max) & <=0.20dB (Typical).</li>
+<li>Return Loss SM (1310 & 1550nm) >=0.50dB (Min), >=0.55dB (Typical), >=0.65dB (APC)</li>
+</ul>
+</div>
+<div class="box1">
+  <h4>Physical & Environmental Properties</h4>
+  <ul>
+  <li>Repeatability: < 0.10dB  </li>
+  <li>Storage temperature: -25°C to +70°C </li>
+  <li>Operating Temperature: -20°C to +70°C </li>
+  </ul>
+</div>
+
+<div class="box1">
+  <h4> Standards & Compliance</h4>
+  <ul>
+    <li> ISO 9001 & RoHS</li>
+    
+  </ul>
+</div>
+<div class="box1">
+  <h4> Packing & Shipping </h4>
+  <ul>
+    <li>The package will be packed according to standard export requirements, customer satisfaction is our target.</li>
+    <li>Inner packing: 1pc in a plastic bag.</li>
+    <li> Outer packing: the carton will be packed with Bubble Sheet, well protect carton from dust and wet. </li>
+    <li>The transportation: By Air, By sea, By DHL , Fedex TNT ,UPS ...</li>
+  </ul>
+</div>
+<div class="box1">
+  <h4> Applications</h4>
+  <ul>
+  <li> Data center & Computer networking</li>
+  <li> Telecommunication & FTTH, FTTB & FTTX.</li>
+  <li> CATV Systems, Local area networks (LAN), Wide area networks (WAN)</li>
+  <li> Fiber optic testing equipment & sensors.</li>
+  <li> Passive optical network & fiber communication system.</li>
+  </ul>
+</div>
+
+</div>`
+
+}, 
+
 
 // OM1 PATCH CABLE
 "Fiber Optic Patch Cable_MULTIMODE OM1_LC TO LC": {

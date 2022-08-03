@@ -151,6 +151,18 @@ productList = {
         "class":"Fiber Optic Patch Cable_SINGLEMODE DUPLEX_FCAPC TO FCAPC",
         "content":"OpZonik FCAPC TO FCAPC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable FCAPC TO FCAPC"
     },
+    {
+        "image":"../../public/productImage/Fiber Optic patch cabel/Singlemode  DX/LC TO SC.jpg",
+        "imageName":"LC TO SC",
+        "class":"Fiber Optic Patch Cable_SINGLEMODE DUPLEX_LC TO SC",
+        "content":"OpZonik LC TO SC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable LC TO SC"
+    },
+    {
+        "image":"../../public/productImage/Fiber Optic patch cabel/Singlemode  DX/LCAPC TO LC.jpg",
+        "imageName":"LCAPC TO LC",
+        "class":"Fiber Optic Patch Cable_SINGLEMODE DUPLEX_LCAPC TO LC",
+        "content":"OpZonik LCAPC TO LC Fiber Optic Patch Cable Singlemode duplex Optical Patch Cord 9/125µm Fiber Optic Cable LCAPC TO LC"
+    },
     ]
   },
   "Fiber Optic Patch Cable_MULTIMODE OM1":{

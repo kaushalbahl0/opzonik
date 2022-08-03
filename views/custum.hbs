@@ -64,34 +64,23 @@
                     </div>
 
                 </div>
-                <div class="select_cable mt-2">
+               
+
+            </div>
+            <div class="col-lg-4">
+                <div class="select_cable">
                     <h3>Select Cable</h3>
-                    <div class="form-group mt-2">
-                        <label for="" class="mt-2">FIBER COUNT : </label>
-                        <select class="form-select" aria-label="Default select example" id="fibercount">
-                            <option value="">select</option>
-                            <option value="1 FIBER">1 FIBER (+$0.01)</option>
-                            <option value="2 FIBER">2 FIBER (+$0.02)</option>
-                            <option value="4 FIBER">4 FIBER (+$0.04)</option>
-                            <option value="6 FIBER">6 FIBER (+$0.08)</option>
-                            <option value="8 FIBER">8 FIBER (+$0.14)</option>
-                            <option value="12 FIBER">12 FIBER (+$0.20)</option>
-                            <option value="24 FIBER">24 FIBER (+$0.30)</option>
-                            <option value="48 FIBER">48 FIBER (+$0.42)</option>
-                        </select>
-                        <p id="fiberCount_name"></p>
-                    </div>
+                  
                     <div class="form-group mt-2">
                         <label for="" class="mt-2">FIBER TYPE : </label>
                         <select class="form-select" aria-label="Default select example" id="fibertype">
                             <option value="">select</option>
-                            <option value="OM1 62.5/125 Multimode Fiber">OM1 62.5/125 Multimode Fiber (+$0.12)</option>
-                            <option value="OM2 50/125 Multimode Fiber">OM2 50/125 Multimode Fiber (+$0.14)</option>
-                            <option value="OM3 10Gb 50/125 Multimode Fiber">OM3 10Gb 50/125 Multimode Fiber (+$0.16)
+                            <option value="OM1 62.5/125 Multimode Fiber">MULTIMODE OM1 62.5/125µm</option>
+                            <option value="OM2 50/125 Multimode Fiber">MULTIMODE OM2 50/125µm</option>
+                            <option value="OM3 10Gb 50/125 Multimode Fiber">MULTIMODE OM3 50/125µm
                             </option>
-                            <option value="OM4 40/100Gb 50/125 Multimode Fiber">OM4 40/100Gb 50/125 Multimode Fiber
-                                (+$0.23)</option>
-                            <option value="OS2 9/125 Singlemode Fiber">OS1 9/125 Singlemode Fiber (+$0.12)</option>
+                            <option value="OM4 40/100Gb 50/125 Multimode Fiber">MULTIMODE OM4 50/125µm</option>
+                            <option value="OS2 9/125 Singlemode Fiber">SINGLEMODE OS1 9/125µm</option>
                         </select>
                          <p id="fiberType_name"></p>
                     </div>
@@ -99,96 +88,26 @@
                         <label for="" class="mt-2 ">JACKET TYPE : </label>
                         <select class="form-select" aria-label="Default select example" id="jackettype">
                             <option value="">select</option>
-                            <option  value="ZIP CORD">ZIP CORD (+$0.01)</option>
-                            <option  value="TIGHT BUFFERED INDOOR">TIGHT BUFFERED INDOOR (+$0.06)</option>
-                            <option  value="INDOOR/OUTDOOR">INDOOR/OUTDOOR (+$0.85)</option>
-                            <option  value="OUTDOOR">OUTDOOR (+$2.45)</option>
+                            <option  value="ZIP CORD">TIGHT BUFFERED INDOOR SIMPLEX 2mm</option>
+                            <option  value="TIGHT BUFFERED INDOOR">TIGHT BUFFERED INDOOR SIMPLEX 3mm</option>
+                            <option  value="INDOOR/OUTDOOR">DUPLEX ZIPCORD 2mm</option>
+                            <option  value="OUTDOOR">DUPLEX ZIPCORD 3mm</option>
+                            <option  value="OUTDOOR">ARMOURED SIMPLEX 3mm</option>
+                            
                         </select>
                          <p id="JacketType_name"></p>
                     </div>
-                    <div class="form-group mt-2">
-
-                        <label for="" class="mt-2">JACKET RATING : </label>
-                        <select class="form-select" aria-label="Default select example" id="jacketrating">
-                            <option value="">select</option>
-                            <option  value="OFNR (RISER)">OFNR (RISER)</option>
-                            <option  value="OFNP (PLENUM)">OFNP (PLENUM) (+$0.39)</option>
-                        </select>
-                        <p id="JacketRating_name"></p>
-                    </div>
-
-                </div>
-
-            </div>
-            <div class="col-lg-4">
-                <div class="select_cable">
-                    <h3>Select Preferences</h3>
-                    <div class="form-group mt-2">
-                        <label for="" class="mt-2">PULLING EYE : </label>
-                        <select class="form-select" aria-label="Default select example" id="pullingeye">
-                            <option value="">select</option>
-                            <option  value="NONE">NONE</option>
-                            <option  value="ONE SIDE">ONE SIDE (+$9.95)</option>
-                            <option  value="BOTH SIDES">BOTH SIDES (+$18.29)</option>
-                        </select>
-                        <p id="pullingEye_name"></p>
-                    </div>
-                    <div class="form-group mt-2">
-                        <label for="" class="mt-2">ON SPOOL : </label>
-                        <select class="form-select" aria-label="Default select example" id="onpool">
-                            <option value="">select</option>
-                            <option value="Yes">Yes</option>
-                            <option value="No">No</option>
-
-                        </select>
-                        <p id="onSpool_name"></p>
-                    </div>
-                    <div class="form-group mt-2">
-                        <label for="" class="mt-2">BREAKOUT TYPE : </label>
-                        <select class="form-select" aria-label="Default select example" id="breakouttype">
-                            <option value="">select</option>
-                            <option  value="900 MICRON (STANDARD)">900 MICRON (STANDARD)</option>
-                            <option  value="2.0 MIL FURCATION">2.0 MIL FURCATION</option>
-                            <option  value="OTHER">OTHER (+$20.00)</option>
-                            <option  value="NONE (Simplex &amp; Zipcord)">NONE (Simplex &amp; Zipcord)
-                            </option>
-                        </select>
-                        <p id="breakoutType_name"></p>
-                    </div>
-                    <div class="form-group mt-2">
-                        <label for="" class="mt-2">BREAKOUT LENGTH : </label>
-                        <select class="form-select" aria-label="Default select example" id="breakoutlenght">
-                            <option value="">select</option>
-                            <option  value="6 INCHES">6 INCHES</option>
-                            <option  value="12 INCHES">12 INCHES</option>
-                            <option  value="18 INCHES">18 INCHES</option>
-                            <option  value="24 INCHES">24 INCHES</option>
-                            <option  value="NONE (Simplex &amp; Zipcord)">NONE (Simplex &amp; Zipcord)
-                            </option>
-                        </select>
-                        <p id="breakoutLength_name"></p>
-                    </div>
-                    <div class="form-group mt-2">
-                        <label for="" class="mt-2">POLARITY : </label>
-                        <select class="form-select" aria-label="Default select example" id="polarity">
-                            <option value="">select</option>
-                               <option value="FLIPPED (STANDARD)">FLIPPED (STANDARD)</option>
-                                <option value="STRAIGHT THROUGH">STRAIGHT THROUGH</option>
-                                <option value="ROLLOVER">ROLLOVER</option>
-                        </select>
-                          <p id="polarity_name"></p>
-                    </div>
-                    <div class="form-group mt-2">
-                        <label for="" class="mt-2">Cable Lenght(ft) : </label>
-                        <input type="text" class="form-control" placeholder="Enter Lenght(ft)" id="cablelenght">
-                         <p id="cableLength_name"></p>
-                    </div>
-                    
+                   
 
                 </div>
             </div>
             <div class="col-lg-4">
                 <h3>Enter Quantity</h3>
+                 <div class="form-group mt-2">
+                        <label for="" class="mt-2">Cable Lenght(ft) : </label>
+                        <input type="text" class="form-control" placeholder="Enter Lenght(ft)" id="cablelenght">
+                         <p id="cableLength_name"></p>
+                    </div>
                 <div class="form-group mt-2">
                     <label for="" class="mt-2">Quantity: </label>
                     <input type="text" name="" placeholder="Enter Quantity" class="form-control" id="quantity">
