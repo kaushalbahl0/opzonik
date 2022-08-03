@@ -2032,7 +2032,7 @@ productDesc = {
 </div>`},
   "Fiber Optic Patch Cable_MULTIMODE OM4_LC TO SC": {
     "title": " OpZonik LC to SC Fiber Optic Patch Cable Multimode OM4 Duplex 50/125µm, Optical Patch Cord 100G/40G Fiber Optic Cable LC-SC ",
-    "info": `LC to SC Multimode Fiber OM4 50/125um is the tight buffered zip cord fiber and is designed to meet the demands of 40G/100G Gigabit Ethernet speeds and high speed fiber channel. It supports 40GB & 100GB Ethernet connection @850nm covers up to the distance of 150 meters. For any type of customization length and connectors configuration:`,
+    "info": `LC to SC Multimode Fiber OM4 50/125um is the tight buffered zip cord fiber and is designed to meet the demands of 40G/100G Gigabit Ethernet speeds and high speed fiber channel. It supports 40GB & 100GB Ethernet connection @850nm covers up to the distance of 150 meters.OM4, for laser-optimized 50um fiber having 4700 MHz*km EMB bandwidth designed for 10 GB, 40 GB, and 100 GB transmission. For any type of customization length and connectors configuration:`,
     "image": "../../public/productImage/Fiber Optic patch cabel/Multimode OM4/LC TO SC.jpg",
     "mark":"yes",
     "description": `<div class="descrip">
@@ -2093,7 +2093,7 @@ productDesc = {
 </div>`
   }, "Fiber Optic Patch Cable_MULTIMODE OM4_SC TO SC": {
     "title": "OpZonik SC to SC Fiber Optic Patch Cable Multimode OM4 Duplex 50/125µm, Optical Patch Cord 100G/40G Fiber Optic Cable SC-SC",
-    "info": `SC to SC Multimode Fiber OM4 50/125um is the tight buffered zip cord fiber and is designed to meet the demands of 40G/100G Gigabit Ethernet speeds and high speed fiber channel. It supports 40GB & 100GB Ethernet connection @850nm covers up to the distance of 150 meters. For any type of customization length and connectors configuration:`,
+    "info": `SC to SC Multimode Fiber OM4 50/125um is the tight buffered zip cord fiber and is designed to meet the demands of 40G/100G Gigabit Ethernet speeds and high speed fiber channel. It supports 40GB & 100GB Ethernet connection @850nm covers up to the distance of 150 meters.OM4, for laser-optimized 50um fiber having 4700 MHz*km EMB bandwidth designed for 10 GB, 40 GB, and 100 GB transmission. For any type of customization length and connectors configuration:`,
     "image": "../../public/productImage/Fiber Optic patch cabel/Multimode OM4/LC TO LC.jpg",
     "mark":"yes",
     "description": `<div class="descrip">
@@ -2313,7 +2313,7 @@ productDesc = {
 
   },
   "Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM2_ST": {
-    "title": `OpZonik 1.5M 12 Strand Multimode OM1 62.5/125µm ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing `,
+    "title": `OpZonik 1.5M 12 Strand Multimode OM2 0/125µm ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing `,
     "info": `For Any Customization of length and connector configuration ;
   `,
     "image": "../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.jpg",
@@ -2864,7 +2864,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 
   // fiber optic adapter cable 
   "Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO ST": {
-    "title": "OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode 9/125um Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)",
+    "title": "OpZonik 1FT LC to ST Fiber Optic Adapter Cable Singlemode 9/125um Duplex, LC Male to ST Female Fiber Adapter Cable – 0.3 Meter (1FT)",
     "info": ``,
     "image": "../../public/productImage/Adapter_Cables/LC TO ST  S.MODE DX ADPTER CABLE.jpg",
     "mark":"yes",
@@ -2894,7 +2894,7 @@ SC compatible duplex adapters are comprised of a polymer outer body and inner as
 </div>`
   },
   "Fiber Optic Adapter Cable_SINGLEMODE DUPLEX_LC TO SC": {
-    "title": "OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode  9/125 Duplex, LC Male to ST Female Fiber Adapter Cable – 0.3 Meter (1FT)",
+    "title": "OpZonik 1FT LC to SC Fiber Optic Adapter Cable Singlemode  9/125 Duplex, LC Male to SC Female Fiber Adapter Cable – 0.3 Meter (1FT)",
     "info": ``,
     "image": "../../public/productImage/Adapter_Cables/LC TO SC S.MODE DX ADAPTER CABLE.jpg",
     "mark":"yes",

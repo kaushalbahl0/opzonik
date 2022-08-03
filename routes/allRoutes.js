@@ -53,6 +53,18 @@ router.get("/custom",(req,res)=>{
     console.log("kaushal")
     res.render("custum",{"data":listData,"button":listButton,"productimage":productImg})
 })
+// blog detail router 
+router.get("/rularoptics",(req,res)=>{
+    res.render("rularOptics")
+})
+router.get("/advantage",(req,res)=>{
+    res.render("advantageOfOpticalFiber")
+})
+router.get("/world_data",(req,res)=>{
+    res.render("worldOfDataBlog")
+})
+
+
 router.get("/:key",(req,res)=>{
     const listData=data.opzonik;
     const listButton=productDesc.product
@@ -73,6 +85,9 @@ router.get("/product/:key",(req,res)=>{
     
     res.render("productDetails",{"data":listData,"button":listButton,"productimage":productImg,"productInfo":productD})
 })
+
+
+
 
 
 module.exports=router

@@ -353,7 +353,7 @@ productList = {
             "image":"../../public/productImage/New Adapter/LC S.MODE DX ADAPTER.jpg",
             "imageName":"LC TO LC",
             "class":"Fiber Optic Adapter_SINGLEMODE DUPLEX_LC TO LC",
-            "content":"OpZonik LC Female to LC Female APC Singlemode Duplex Fiber Optic Cable Adapter Coupler"
+            "content":"OpZonik LC Female to LC Female  Singlemode Duplex Fiber Optic Cable Adapter Coupler"
         },
         {
             "image":"../../public/productImage/New Adapter/SC TO SC SX M.MODE.jpg",
@@ -453,7 +453,7 @@ productList = {
             "image":"../../public/productImage/Pigtail/MULTIMODE OM1  PIGTAILS.jpg",
             "imageName":"OM2",
             "class":"Multifiber Pigtails_MULTIMODE Multifiber Pigtail OM2_ST",
-            "content":"OpZonik 1.5M 12 Strand Multimode OM1 62.5/125um ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
+            "content":"OpZonik 1.5M 12 Strand Multimode OM2 50/125um ST Fiber optic pigtails, 12 Color-Coded ST Cable Fiber Optic Patch Cord with Zirconia Ceramic Ferrule Plug for Fusion Splicing"
         },
         {
             "image":"../../public/productImage/Pigtail/MULTIMODE OM 3 LC.jpg",
